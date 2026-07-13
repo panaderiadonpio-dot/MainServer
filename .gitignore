@@ -1,0 +1,5 @@
+# Ignore Windows executables in every subdirectory
+*.exe
+
+# Keep executables located directly in the repository root
+!/*.exe

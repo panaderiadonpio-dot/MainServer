@@ -1,1 +1,0 @@
-"עברית" language file is saved with password 12345678 and contains translation for launcher to Hebrew language

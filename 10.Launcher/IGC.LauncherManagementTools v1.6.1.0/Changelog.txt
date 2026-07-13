@@ -1,5 +1,0 @@
-﻿[v1.6.1.0]
-	-> [NEW] Settings editor: add option to hide main.exe process start errors
-
-[v1.6.0.0]
-	-> [NEW] support GIF images for custom design (you must remake your design Template with animated GIFs and use Launcher v v1.12.0.0 or newer) 

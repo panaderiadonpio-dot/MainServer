@@ -1,0 +1,2 @@
+# Keep Windows executables local; never commit them
+*.exe

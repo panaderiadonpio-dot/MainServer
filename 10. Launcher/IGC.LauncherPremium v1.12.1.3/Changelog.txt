@@ -1,0 +1,18 @@
+﻿[v1.12.1.3]
+	-> [FIX] GameStart fails to run main.exe if it was never started before by the user directly (this is due to windows' Trusted App feature, which is enabled by default for new executables)
+	-> [FIX] AutoLogin does not work if account or password contains white spaces
+
+[v1.12.1.1]
+	-> [FIX] 'hiding main.exe process start errors' option doesnt work properly
+
+[v1.12.1.0]
+	-> [NEW] Support hiding main.exe process start errors
+
+[v1.12.0.2]
+	-> [FIX] OVH hosting communication issue due to new OVH HTTP requests policy
+
+[v1.12.0.1]
+	-> [FIX] F shortcut keys not working
+
+[v1.12.0.0]
+	-> [NEW] support GIF images for custom design (you must remake your design Template with animated GIFs using Management Tools v1.6.0.0 or newer) 

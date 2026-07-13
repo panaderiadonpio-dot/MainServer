@@ -1,5 +1,2 @@
-# Ignore Windows executables in every subdirectory
+# Keep Windows executables local; never commit them
 *.exe
-
-# Keep executables located directly in the repository root
-!/*.exe

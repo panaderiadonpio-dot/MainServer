@@ -62,8 +62,6 @@
 		<Item Cat="0" Index="8" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 		<!-- Blade-->
 		<Item Cat="0" Index="5" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<!-- Wings of Dragon-->
-		<Item Cat="12" Index="5" Level="15" Durability="247" Skill="0" Luck="1" Option="7" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
 	</Tab>
 	<Tab Id="2" />
 	<Tab Id="3" />

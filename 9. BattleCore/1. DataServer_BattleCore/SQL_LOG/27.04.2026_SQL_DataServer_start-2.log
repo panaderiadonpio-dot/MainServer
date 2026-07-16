@@ -1,0 +1,157 @@
+[05:32:02] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[05:32:02] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[05:32:02] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[05:32:02] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[05:32:02] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[05:32:02] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[05:32:02] EXEC IGC_PersonalStore_LoadAllStores
+[05:32:02] SELECT * FROM Guild
+[05:32:02] EXEC IGC_DeleteAllPartyMatchingList
+[05:32:02] EXEC IGC_LoadPartyInfo
+[05:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[05:32:08] SELECT * FROM DefaultClassType
+[05:32:10] EXEC IGC_DevilSquareFinal_Renew 2
+[05:32:10] EXEC IGC_DevilSquareFinal_Renew 3
+[05:32:10] EXEC IGC_DevilSquareFinal_Renew 4
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 2
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 3
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 4
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 2
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 3
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 4
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 2
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 3
+[05:32:10] EXEC IGC_DevilSquareFinal_GetRank 4
+[06:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[06:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[07:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[07:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[08:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[08:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[09:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[09:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[10:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[10:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[11:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[11:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[12:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[12:26:14] SELECT * FROM MEMB_INFO WHERE memb___id='test'
+[12:26:14] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A'
+[12:26:14] SELECT BanType, BanTimeConvert FROM IGC_AccountBan WHERE AccountID = 'test'
+[12:26:14] INSERT INTO ConnectionHistory (AccountID, ServerCode, ServerName, IP, Date, State, HWID) Values('test', 480, 'BattleCore', '190.5.35.76', GETDATE(), 'Connect', '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A')
+[12:26:14] EXEC WZ_CONNECT_MEMB 'test','BattleCore','190.5.35.76'
+[12:26:14] EXEC VIPSystem_CheckAccount 'test'
+[12:26:14] SELECT Id FROM AccountCharacter WHERE Id='test'
+[12:26:14] INSERT INTO AccountCharacter (Id) VALUES ('test')
+[12:26:14] SELECT * FROM AccountCharacter WHERE Id='test'
+[12:26:14] SELECT WarehouseExpansion, MagicGladiator, DarkLord, Summoner, RageFighter, GrowLancer, RuneWizard, Slayer, GunCrusher, LightWizard, LemuriaMage, IllusionKnight, Alchemist, Crusader, SecCode, ILC, LastCreateDate, CharacterCreateCountUsed FROM AccountCharacter WHERE Id='test'
+[12:26:14] SQLSTATE: 42S22, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Crusader'.
+[12:26:14] UPDATE AccountCharacter SET CharacterCreateCountUsed = 0, LastCreateDate = 1777310774 WHERE Id = 'test'
+[12:26:24] SELECT * FROM AccountCharacter WHERE Id='test'
+[12:26:30] INSERT INTO ConnectionHistory (AccountID, ServerCode, ServerName, IP, Date, State, HWID) Values('test', 480, 'BattleCore', '190.5.35.76', GETDATE(), 'Disconnect', 'N/A')
+[12:26:30] EXEC WZ_DISCONNECT_MEMB 'test'
+[12:28:14] SELECT * FROM MEMB_INFO WHERE memb___id='test'
+[12:28:14] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A'
+[12:28:14] SELECT BanType, BanTimeConvert FROM IGC_AccountBan WHERE AccountID = 'test'
+[12:28:14] INSERT INTO ConnectionHistory (AccountID, ServerCode, ServerName, IP, Date, State, HWID) Values('test', 480, 'BattleCore', '190.5.35.76', GETDATE(), 'Connect', '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A')
+[12:28:14] EXEC WZ_CONNECT_MEMB 'test','BattleCore','190.5.35.76'
+[12:28:14] EXEC VIPSystem_CheckAccount 'test'
+[12:28:14] SELECT Id FROM AccountCharacter WHERE Id='test'
+[12:28:14] SELECT * FROM AccountCharacter WHERE Id='test'
+[12:28:14] SELECT WarehouseExpansion, MagicGladiator, DarkLord, Summoner, RageFighter, GrowLancer, RuneWizard, Slayer, GunCrusher, LightWizard, LemuriaMage, IllusionKnight, Alchemist, Crusader, SecCode, ILC, LastCreateDate, CharacterCreateCountUsed FROM AccountCharacter WHERE Id='test'
+[12:28:14] SQLSTATE: 42S22, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Crusader'.
+[12:28:14] SELECT cLevel, mLevel, Class, CtlCode, PkLevel, SIC, WingCoreType, WingCoreLevel FROM vCharacterPreview WHERE Name = '1'
+[12:28:14] SELECT Inventory FROM Character WHERE Name='1'
+[12:28:14] SELECT RESETS FROM Character WHERE Name='1'
+[12:28:14] EXEC IGC_BattleCore_GetRealName '1'
+[12:28:16] SELECT * FROM AccountCharacter WHERE Id='test'
+[12:28:16] UPDATE AccountCharacter SET GameID1='1' WHERE Id='test'
+[12:28:16] SELECT * FROM AccountCharacter WHERE Id = 'test'
+[12:28:16] SELECT WarehouseExpansion FROM AccountCharacter WHERE Id = 'test'
+[12:28:16] SELECT id, cLevel, mLevel, Class, LevelUpPoint, mlPoint, Experience, mlExperience, mlNextExp, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, Leadership, ChatLimitTime, RESETS, Married, MarryName, InventoryExpansion, WinDuels, LoseDuels, BlockChatTime, PenaltyMask, Ruud, OpenHuntingLog, StatCoin, StatGP, i4thSkillPoint, AddStrength, AddDexterity, AddVitality, AddEnergy, FruitAddPoint, FruitDecPoint, GrandResets, MonStat, PCR, LVLB, Age, CJL, SIC, WingCoreType, WingCoreLevel, GiantMountType, GiantMountWear, AddLeadership, LastFreePotionUseTime FROM Character WHERE Name = '1' AND AccountID = 'test'
+[12:28:16] SELECT Inventory from Character where Name='1'
+[12:28:16] SELECT MagicList from Character where Name='1'
+[12:28:16] SELECT Quest from Character where Name='1'
+[12:28:16] SELECT AuthorityMask, DATEDIFF(DAY, GETDATE(), Expiry) AS ExpirationTime FROM T_GMSystem WHERE Name='1'
+[12:28:16] UPDATE AccountCharacter SET GameIDC='1' WHERE Id='test'
+[12:28:16] EXEC IGC_StatsSystemLoad '1'
+[12:28:16] EXEC IGC_SetSelectMuRummy 'test', '1'
+[12:28:16] SELECT * FROM OptionData WHERE Name='1'
+[12:28:16] SELECT * FROM T_Event_Inventory WHERE Name = '1'
+[12:28:16] SELECT * FROM IGC_Muun_Inventory WHERE Name= '1'
+[12:28:16] INSERT INTO T_Event_Inventory (AccountID, Name) VALUES ('test', '1')
+[12:28:16] SELECT Items from IGC_Muun_Inventory WHERE Name= '1'
+[12:28:16] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = '1'
+[12:28:16] EXEC IGC_MuunPeriodSelect '1'
+[12:28:16] EXEC IGC_PeriodItemExpiredItemSelectEx 1, '1'
+[12:28:16] SELECT * FROM IGC_ArtifactInfo WHERE Name = '1'
+[12:28:16] EXEC IGC_PeriodItemSelectEx 1, '1'
+[12:28:16] SELECT MuHelperData FROM Character WHERE AccountID = 'test' AND Name = '1'
+[12:28:16] EXEC IGC_LuckyItemSelect '1'
+[12:28:16] SELECT MuHelperPlusData FROM Character WHERE AccountID = 'test' AND Name = '1'
+[12:28:16] EXEC IGC_PeriodBuffSelect '1'
+[12:28:16] EXEC IGC_MuunConditionInfoGetLoad '1'
+[12:28:16] EXEC IGC_PentagramInfoSelect 1, 'test', '1', 0
+[12:28:16] EXEC IGC_PentagramInfoSelect 1, 'test', '1', 1
+[12:28:16] EXEC IGC_HuntingRecordInfoUserOpenLoad 'test', '1'
+[12:28:16] EXEC IGC_GremoryCaseChkLimitedCnt 'test', '1', 1
+[12:28:16] EXEC IGC_GremoryCaseChkLimitedCnt 'test', '1', 2
+[12:28:16] EXEC IGC_GremoryCaseChkLimitedCnt 'test', '1', 4
+[12:28:16] EXEC IGC_GremoryCaseSelect 'test', '1', 1
+[12:28:16] EXEC IGC_GremoryCaseSelect 'test', '1', 2
+[12:28:16] EXEC IGC_GremoryCaseSelect 'test', '1', 4
+[12:28:16] EXEC IGC_BattleCore_AccountUserInfoSelect 'test', '1', 24, 1
+[12:28:16] EXEC IGC_GetLoadRestoreInventory 'test', '1'
+[12:28:16] EXEC IGC_WingCoreInfoSelect 1, 'test', '1', 0
+[12:28:16] EXEC IGC_WingCoreInfoSelect 1, 'test', '1', 1
+[12:28:16] SELECT ItemCode, ItemSerial, ItemLevel, OptionIndex, AddOptionIndex, ItemCount, Pos FROM IGC_AbilityCardInfo WHERE Name = '1'
+[12:28:16] SELECT BlockedName FROM IGC_BlockChat WHERE Name = '1'
+[12:28:16] EXEC IGC_GremoryCaseSelect 'test', '1', 4
+[12:29:02] EXEC WZ_GetItemSerial2 '3000'
+[12:29:10] EXEC IGC_BattleCore_AccountUserInfoSelect 'test', '1', 24, 1
+[12:30:26] SELECT * FROM MEMB_INFO WHERE memb___id='test'
+[12:30:26] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A'
+[12:30:26] SELECT BanType, BanTimeConvert FROM IGC_AccountBan WHERE AccountID = 'test'
+[12:30:31] SELECT * FROM MEMB_INFO WHERE memb___id='test'
+[12:30:31] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A'
+[12:30:31] SELECT BanType, BanTimeConvert FROM IGC_AccountBan WHERE AccountID = 'test'
+[12:30:38] SELECT * FROM MEMB_INFO WHERE memb___id='test'
+[12:30:38] SELECT * FROM IGC_MachineID_Banned WHERE HWID = '102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A'
+[12:30:38] SELECT BanType, BanTimeConvert FROM IGC_AccountBan WHERE AccountID = 'test'
+[12:31:22] SELECT Name FROM OptionData WHERE Name='1'
+[12:31:22] INSERT INTO OptionData (Name, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, QWERLevel, EnableChangeMode, PlayGuideLv, PlayGuideCK) VALUES ('1', 29, 255, 255, 255, 0, 0, 658184, 0, 0, 0)
+[12:31:22] UPDATE OptionData SET SkillKey=? where Name='1'
+[12:31:23] SELECT * FROM AccountCharacter WHERE Id='test'
+[12:31:23] UPDATE AccountCharacter SET GameID1='1' WHERE Id='test'
+[12:31:28] SELECT Name FROM OptionData WHERE Name='1'
+[12:31:28] INSERT INTO ConnectionHistory (AccountID, ServerCode, ServerName, IP, Date, State, HWID) Values('test', 480, 'BattleCore', '190.5.35.76', GETDATE(), 'Disconnect', 'N/A')
+[12:31:28] UPDATE OptionData SET GameOption=29, Qkey=255, Wkey=255, Ekey=255, ChatWindow=0, Rkey=0, QWERLevel=658184, EnableChangeMode=0, PlayGuideLv=0, PlayGuideCK=0 WHERE Name='1'
+[12:31:28] EXEC WZ_DISCONNECT_MEMB 'test'
+[12:31:28] UPDATE OptionData SET SkillKey=? where Name='1'
+[12:31:28] UPDATE T_Event_Inventory SET Inventory=? WHERE Name = '1'
+[12:31:28] EXEC IGC_SetSaveRestoreInventory 'test', '1', ?
+[12:31:28] UPDATE Character SET cLevel=2, mLevel=0, Class=0,LevelUpPoint=5, mlPoint=0, Experience=400, mlExperience=0, mlNextExp=35507050, Strength=18, Dexterity=18, Vitality=15, Energy=30, Money=100000000, Life=61.000000, MaxLife=61.000000, Mana=62.000000, MaxMana=62.000000, MapNumber=79, MapPosX=53, MapPosY=68, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, Leadership=0, ChatLimitTime=0, RESETS = 0, Married = 0, MarryName = '', WinDuels=0, LoseDuels=0, BlockChatTime=0, PenaltyMask=0, Ruud=0, OpenHuntingLog=184, StatGP=0, StatCoin=0, i4thSkillPoint=0, AddStrength=0, AddDexterity=0, AddVitality=0, AddEnergy=0, FruitAddPoint=0, FruitDecPoint=0, GrandResets=0, MonStat=0, Age=0, CJL=0, SIC=0, WingCoreType=255, WingCoreLevel=255, GiantMountType=0, GiantMountWear=0, AddLeadership=0, LastFreePotionUseTime=0 WHERE Name = '1'
+[12:31:28] UPDATE Character SET Inventory=? WHERE Name='1'
+[12:31:28] DELETE FROM IGC_BlockChat WHERE Name = '1'
+[12:31:28] UPDATE Character SET MagicList=? WHERE Name='1'
+[12:31:28] UPDATE Character SET Quest=? WHERE Name='1'
+[12:31:28] UPDATE IGC_Muun_Inventory SET Items=? WHERE Name='1'
+[12:31:28] EXEC IGC_MuunConditionInfoSetSave '1', 0, 255, 0
+[12:31:28] EXEC IGC_MuunConditionInfoSetSave '1', 1, 255, 0
+[12:31:28] EXEC IGC_MuunConditionInfoSetSave '1', 2, 255, 0
+[12:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[13:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[13:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[14:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[14:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[15:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[15:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[16:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[16:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[17:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[17:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[18:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[18:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[19:02:08] EXEC IGC_GetAverageConnWaitTime 480
+[19:32:08] EXEC IGC_GetAverageConnWaitTime 480
+[20:02:08] EXEC IGC_GetAverageConnWaitTime 480

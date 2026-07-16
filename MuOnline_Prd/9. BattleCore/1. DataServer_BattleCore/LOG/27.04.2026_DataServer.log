@@ -1,0 +1,25 @@
+[05:05:05] Initializing...
+[05:05:05] eDataServer version: 21.1.2.11 S Compiled at: Apr 17 2026 11:28:08
+[05:05:05] IP Address 147.135.23.66 valid, no resolving required
+[05:05:05] Password Encrypt Type: None
+[05:05:05] Current Global Connections Limit (IP) per ServerGroup, General: 10 OffPlayer: (5)
+[05:05:05] Current Global Connections Limit (HWID) per ServerGroup, General: 10 OffPlayer: (5)
+[05:05:05] JoinServer configuration load OK
+[05:05:05] Character Delete Max Level: 40
+[05:05:05] Character Create Limit Per Day: 4
+[05:05:05] DataServer configuration load OK
+[05:05:05] ExDataServer configuration load OK
+[05:05:05] [Allowed IP List] .\AllowedIPList.xml file loaded successfuly (IP count: 1)
+[05:05:06] [DataServer] ItemCount: 0
+[05:05:06] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 57)
+[05:05:06] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[05:05:06] [ExDB] Guild Load Completed, total:0, Time:0 ms
+[05:05:06] JoinServer listen on PORT [ 56770 ]
+[05:05:06] DataServer listen on PORT [ 56760 ]
+[05:05:06] ExDataServer listen on PORT [ 56706 ]
+[05:05:06] License Information:
+[05:05:06] Customer: Sergio Soto - Sergio soto Server: ArabastaMu
+[05:05:15] [ServerMng] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[05:05:15] [Join Server] GameServer Battle Core connected BattleCore, PORT: 56120, Code: 480, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[05:05:15] [ServerMng] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[05:05:15] [DataServer] GameServer(Battle Core)(480)(24) connect

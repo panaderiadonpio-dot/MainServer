@@ -1,0 +1,23 @@
+[00:19:29] EXEC IGC_GetAverageConnWaitTime 480
+[00:19:29] SELECT * FROM DefaultClassType
+[00:19:29] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:29] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:29] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:29] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:29] SELECT * FROM DefaultClassType
+[00:19:29] EXEC IGC_GetAverageConnWaitTime 480
+[00:19:31] EXEC IGC_DevilSquareFinal_Renew 2
+[00:19:31] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:31] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:31] EXEC IGC_DevilSquareFinal_Renew 2
+[00:19:31] EXEC IGC_DevilSquareFinal_Renew 3
+[00:19:31] EXEC IGC_DevilSquareFinal_Renew 4
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 2
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 3
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 4
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 2
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 3
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 4
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 2
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 3
+[00:19:31] EXEC IGC_DevilSquareFinal_GetRank 4

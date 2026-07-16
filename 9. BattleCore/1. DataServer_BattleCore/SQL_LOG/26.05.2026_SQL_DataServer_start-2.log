@@ -1,0 +1,49 @@
+[10:49:54] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[10:49:54] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[10:49:54] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[10:49:54] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[10:49:54] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[10:49:54] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[10:49:54] EXEC IGC_PersonalStore_LoadAllStores
+[10:49:54] SELECT * FROM Guild
+[10:49:54] EXEC IGC_DeleteAllPartyMatchingList
+[10:49:54] EXEC IGC_LoadPartyInfo
+[10:50:26] SELECT * FROM DefaultClassType
+[10:50:26] EXEC IGC_GetAverageConnWaitTime 480
+[10:50:28] EXEC IGC_DevilSquareFinal_Renew 2
+[10:50:28] EXEC IGC_DevilSquareFinal_Renew 3
+[10:50:28] EXEC IGC_DevilSquareFinal_Renew 4
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 2
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 3
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 4
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 2
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 3
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 4
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 2
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 3
+[10:50:28] EXEC IGC_DevilSquareFinal_GetRank 4
+[11:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[11:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[12:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[12:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[13:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[13:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[14:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[14:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[15:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[15:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[16:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[16:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[17:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[17:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[18:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[18:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[18:50:27] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+[18:50:27] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]Error general de red. Consulte la documentación de la red.
+[18:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[19:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[19:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[20:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[20:50:27] EXEC IGC_GetAverageConnWaitTime 480
+[21:20:27] EXEC IGC_GetAverageConnWaitTime 480
+[21:50:27] EXEC IGC_GetAverageConnWaitTime 480

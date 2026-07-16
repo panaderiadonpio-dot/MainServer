@@ -1,0 +1,10 @@
+[19:26:50] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[19:26:50] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[19:26:50] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[19:26:50] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[19:26:50] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[19:26:50] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[19:26:50] EXEC IGC_PersonalStore_LoadAllStores
+[19:26:50] SELECT * FROM Guild
+[19:26:50] EXEC IGC_DeleteAllPartyMatchingList
+[19:26:50] EXEC IGC_LoadPartyInfo

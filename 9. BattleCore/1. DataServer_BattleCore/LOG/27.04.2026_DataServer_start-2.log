@@ -1,0 +1,43 @@
+[05:32:01] Initializing...
+[05:32:01] eDataServer version: 21.1.2.11 S Compiled at: Apr 17 2026 11:28:08
+[05:32:01] IP Address 147.135.23.66 valid, no resolving required
+[05:32:01] Password Encrypt Type: None
+[05:32:01] Current Global Connections Limit (IP) per ServerGroup, General: 10 OffPlayer: (5)
+[05:32:01] Current Global Connections Limit (HWID) per ServerGroup, General: 10 OffPlayer: (5)
+[05:32:01] JoinServer configuration load OK
+[05:32:01] Character Delete Max Level: 40
+[05:32:01] Character Create Limit Per Day: 4
+[05:32:01] DataServer configuration load OK
+[05:32:01] ExDataServer configuration load OK
+[05:32:01] [Allowed IP List] .\AllowedIPList.xml file loaded successfuly (IP count: 1)
+[05:32:02] [DataServer] ItemCount: 0
+[05:32:02] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 57)
+[05:32:02] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[05:32:02] [ExDB] Guild Load Completed, total:0, Time:15 ms
+[05:32:02] JoinServer listen on PORT [ 56770 ]
+[05:32:02] DataServer listen on PORT [ 56760 ]
+[05:32:02] ExDataServer listen on PORT [ 56706 ]
+[05:32:02] License Information:
+[05:32:02] Customer: Sergio Soto - Sergio soto Server: ArabastaMu
+[05:32:08] [ServerMng] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[05:32:08] [ServerMng] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[05:32:08] [Join Server] GameServer Battle Core connected BattleCore, PORT: 56120, Code: 480, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[05:32:08] [DataServer] GameServer(Battle Core)(480)(24) connect
+[12:26:14] [JoinServer] Add User (test)(Guid: 1) (ServerCode:480) (ServerGroup:24) (UserIndex:5500) (IP:190.5.35.76) (HWID:102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A)
+[12:26:14] [test] - no charactes
+[12:26:14] [test] - characters: [][][][][][][][][][]
+[12:26:14] [SQL Error] Error executing: SELECT WarehouseExpansion, MagicGladiator, DarkLord, Summoner, RageFighter, GrowLancer, RuneWizard, Slayer, GunCrusher, LightWizard, LemuriaMage, IllusionKnight, Alchemist, Crusader, SecCode, ILC, LastCreateDate, CharacterCreateCountUsed FROM AccountCharacter WHERE Id='test', Result: -1
+[12:26:14] SQLSTATE: 42S22, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Crusader'.
+[12:26:14] [test] - Account Data: [MG:0][DL:0][SU:0][RF:0][GL:0][RW:0][SL:0][GC:0][LW:0][LM:0][IK:0][AC:-1][Expanded WH:0]
+[12:26:30] [JoinServer] Delete User (test)
+[12:28:14] [JoinServer] Add User (test)(Guid: 1) (ServerCode:480) (ServerGroup:24) (UserIndex:5501) (IP:190.5.35.76) (HWID:102F-F06E-7AE6-7F22-E6F0-6862-A1D3-5F6A)
+[12:28:14] [test] - characters: [1][][][][][][][][][]
+[12:28:14] [SQL Error] Error executing: SELECT WarehouseExpansion, MagicGladiator, DarkLord, Summoner, RageFighter, GrowLancer, RuneWizard, Slayer, GunCrusher, LightWizard, LemuriaMage, IllusionKnight, Alchemist, Crusader, SecCode, ILC, LastCreateDate, CharacterCreateCountUsed FROM AccountCharacter WHERE Id='test', Result: -1
+[12:28:14] SQLSTATE: 42S22, Diagnosis: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Crusader'.
+[12:28:14] [test] - Account Data: [MG:0][DL:0][SU:0][RF:0][GL:0][RW:0][SL:0][GC:0][LW:0][LM:0][IK:0][AC:-1][Expanded WH:0]
+[12:30:26] [MeMuOnline] Account already connected ID : test
+[12:30:31] [MeMuOnline] Account already connected ID : test
+[12:30:38] [MeMuOnline] Account already connected ID : test
+[12:31:28] [JoinServer] Delete User (test)
+[20:19:13] [ServerMng] Disconnect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[20:19:13] [ServerMng] Disconnect : Index : 1 - IP : 127.0.0.1 - ServerType : 2

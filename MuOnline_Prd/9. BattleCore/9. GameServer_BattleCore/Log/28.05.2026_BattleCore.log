@@ -1,0 +1,1211 @@
+[00:00:07] [ChaosCastleFinal][End of Day] Preparing for reset.
+[00:00:07] [DevilSquareFinal] Not a DSF Day - disable Event
+[00:55:00] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:1 
+[00:59:30] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:2 
+[01:00:00] [Event Management] Found Event: (0) 01 00 (state=0)
+[01:00:00] [Event Management] [Start] Red Dragon Event
+[01:00:00] [Chaos Castle] (2) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (2) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (2) Clear Monster
+[01:00:00] [Chaos Castle] (2) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (2) SetState CLOSED
+[01:00:00] [Chaos Castle] (3) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (3) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (3) Clear Monster
+[01:00:00] [Chaos Castle] (3) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (3) SetState CLOSED
+[01:00:00] [Chaos Castle] (4) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (4) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (4) Clear Monster
+[01:00:00] [Chaos Castle] (4) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (4) SetState CLOSED
+[01:00:00] [Chaos Castle] (5) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (5) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (5) Clear Monster
+[01:00:00] [Chaos Castle] (5) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (5) SetState CLOSED
+[01:00:00] [Chaos Castle] (6) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (6) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (6) Clear Monster
+[01:00:00] [Chaos Castle] (6) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (6) SetState CLOSED
+[01:00:00] [Chaos Castle] (7) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (7) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (7) Clear Monster
+[01:00:00] [Chaos Castle] (7) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (7) SetState CLOSED
+[01:00:00] [Chaos Castle] (1) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (1) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (1) Clear Monster
+[01:00:00] [Chaos Castle] (1) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (1) SetState CLOSED
+[01:00:01] [Chaos Castle] (2) Clear Monster
+[01:00:01] [Chaos Castle] (2) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (2) SetState CLOSED
+[01:00:01] [Chaos Castle] (2) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (3) Clear Monster
+[01:00:01] [Chaos Castle] (3) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (3) SetState CLOSED
+[01:00:01] [Chaos Castle] (3) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (4) Clear Monster
+[01:00:01] [Chaos Castle] (4) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (4) SetState CLOSED
+[01:00:01] [Chaos Castle] (4) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (5) Clear Monster
+[01:00:01] [Chaos Castle] (5) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (5) SetState CLOSED
+[01:00:01] [Chaos Castle] (5) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (6) Clear Monster
+[01:00:01] [Chaos Castle] (6) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (6) SetState CLOSED
+[01:00:01] [Chaos Castle] (6) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (7) Clear Monster
+[01:00:01] [Chaos Castle] (7) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (7) SetState CLOSED
+[01:00:01] [Chaos Castle] (7) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (1) Clear Monster
+[01:00:01] [Chaos Castle] (1) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (1) SetState CLOSED
+[01:00:01] [Chaos Castle] (1) Chaos Castle Quest Closed - No User
+[01:00:04] [Red Dragon] Event Start
+[01:05:05] [Red Dragon] Event End
+[02:00:00] [Bonus Event] Event Started: AddExp: 1.500000, AddMLExp: 1.500000, AddMJExp: 1.500000, AddDrop: 0.000000
+[03:00:00] [Event Management] Found Event: (0) 03 00 (state=0)
+[03:00:00] [Event Management] [Start] Red Dragon Event
+[03:00:04] [Red Dragon] Event Start
+[03:05:05] [Red Dragon] Event End
+[03:30:00] [Event Management] Found Event: (3) 03 30 (state=0)
+[03:30:00] [Event Management] [Start] RingAttack Event!
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:175, Y:84
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:124, Y:37
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:193, Y:172
+[03:54:28] [Auth][2] Disconnected
+[03:55:37] [Auth] Reconnected to Auth (2)
+[03:55:37] [Auth][2] Login Request
+[03:55:37] [Auth][2] License Check Ongoing...
+[03:55:37] [Auth][2] License Verified (Reconnect)
+[04:01:00] [Bonus Event] Event is over
+[04:08:26] [Auth][2] Disconnected
+[04:09:30] [Auth] Reconnected to Auth (2)
+[04:09:30] [Auth][2] Login Request
+[04:09:30] [Auth][2] License Check Ongoing...
+[04:09:30] [Auth][2] License Verified (Reconnect)
+[04:22:27] [Auth][2] Disconnected
+[04:23:28] [Auth] Reconnected to Auth (2)
+[04:23:28] [Auth][2] Login Request
+[04:23:28] [Auth][2] License Check Ongoing...
+[04:23:29] [Auth][2] License Verified (Reconnect)
+[04:36:27] [Auth][2] Disconnected
+[04:37:37] [Auth] Reconnected to Auth (2)
+[04:37:37] [Auth][2] Login Request
+[04:37:37] [Auth][2] License Check Ongoing...
+[04:37:37] [Auth][2] License Verified (Reconnect)
+[04:50:28] [Auth][2] Disconnected
+[04:51:28] [Auth] Reconnected to Auth (2)
+[04:51:34] [Auth][2] Login Request
+[04:51:34] [Auth][2] License Check Ongoing...
+[04:51:34] [Auth][2] License Verified (Reconnect)
+[05:04:29] [Auth][2] Disconnected
+[05:05:32] [Auth] Reconnected to Auth (2)
+[05:05:33] [Auth][2] Login Request
+[05:05:33] [Auth][2] License Check Ongoing...
+[05:05:34] [Auth][2] License Verified (Reconnect)
+[05:18:29] [Auth][2] Disconnected
+[05:19:30] [Auth] Reconnected to Auth (2)
+[05:19:31] [Auth][2] Login Request
+[05:19:31] [Auth][2] License Check Ongoing...
+[05:19:32] [Auth][2] License Verified (Reconnect)
+[05:30:00] [Event Management] Found Event: (3) 05 30 (state=0)
+[05:30:00] [Event Management] [Start] RingAttack Event!
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:111, Y:174
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:215, Y:95
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:192, Y:57
+[05:32:30] [Auth][2] Disconnected
+[05:33:31] [Auth] Reconnected to Auth (2)
+[05:33:31] [Auth][2] Login Request
+[05:33:31] [Auth][2] License Check Ongoing...
+[05:33:31] [Auth][2] License Verified (Reconnect)
+[05:46:30] [Auth][2] Disconnected
+[05:47:30] [Auth] Reconnected to Auth (2)
+[05:47:33] [Auth][2] Login Request
+[05:47:33] [Auth][2] License Check Ongoing...
+[05:47:34] [Auth][2] License Verified (Reconnect)
+[06:00:31] [Auth][2] Disconnected
+[06:01:31] [Auth] Reconnected to Auth (2)
+[06:01:32] [Auth][2] Login Request
+[06:01:32] [Auth][2] License Check Ongoing...
+[06:01:32] [Auth][2] License Verified (Reconnect)
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 0
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 1
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 2
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 3
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 0
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 0
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 1
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 1
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 2
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 2
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 3
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 3
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 0
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 1
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 2
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 3
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 0
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 1
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 2
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 3
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 0
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 1
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 2
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 3
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 0
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 1
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 2
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 3
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 0
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 1
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 2
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 3
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:0)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 0
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 0
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:1)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 1
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 1
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:2)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 2
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 2
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:3)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 3
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 3
+[06:14:32] [Auth][2] Disconnected
+[06:15:35] [Auth] Reconnected to Auth (2)
+[06:15:35] [Auth][2] Login Request
+[06:15:36] [Auth][2] License Check Ongoing...
+[06:15:36] [Auth][2] License Verified (Reconnect)
+[06:28:31] [Auth][2] Disconnected
+[06:29:32] [Auth] Reconnected to Auth (2)
+[06:29:34] [Auth][2] Login Request
+[06:29:34] [Auth][2] License Check Ongoing...
+[06:29:34] [Auth][2] License Verified (Reconnect)
+[06:42:33] [Auth][2] Disconnected
+[06:43:33] [Auth] Reconnected to Auth (2)
+[06:43:35] [Auth][2] Login Request
+[06:43:35] [Auth][2] License Check Ongoing...
+[06:43:36] [Auth][2] License Verified (Reconnect)
+[06:56:32] [Auth][2] Disconnected
+[06:57:33] [Auth] Reconnected to Auth (2)
+[06:57:33] [Auth][2] Login Request
+[06:57:33] [Auth][2] License Check Ongoing...
+[06:57:33] [Auth][2] License Verified (Reconnect)
+[07:10:33] [Auth][2] Disconnected
+[07:12:16] [Auth] Unable to reconnect -> waiting for next reconnection (30s)
+[07:13:16] [Auth] Reconnected to Auth (2)
+[07:13:16] [Auth][2] Login Request
+[07:13:16] [Auth][2] License Check Ongoing...
+[07:13:16] [Auth][2] License Verified (Reconnect)
+[07:24:34] [Auth][2] Disconnected
+[07:25:34] [Auth] Reconnected to Auth (2)
+[07:25:35] [Auth][2] Login Request
+[07:25:35] [Auth][2] License Check Ongoing...
+[07:25:35] [Auth][2] License Verified (Reconnect)
+[07:30:00] [Event Management] Found Event: (3) 07 30 (state=0)
+[07:30:00] [Event Management] [Start] RingAttack Event!
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:123, Y:186
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:173, Y:66
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:153, Y:69
+[07:38:34] [Auth][2] Disconnected
+[07:39:38] [Auth] Reconnected to Auth (2)
+[07:39:41] [Auth][2] Login Request
+[07:39:41] [Auth][2] License Check Ongoing...
+[07:39:41] [Auth][2] License Verified (Reconnect)
+[07:52:35] [Auth][2] Disconnected
+[07:53:39] [Auth] Reconnected to Auth (2)
+[07:53:40] [Auth][2] Login Request
+[07:53:40] [Auth][2] License Check Ongoing...
+[07:53:40] [Auth][2] License Verified (Reconnect)
+[08:00:00] [Bonus Event] Event Started: AddExp: 1.500000, AddMLExp: 1.500000, AddMJExp: 1.500000, AddDrop: 0.000000
+[08:00:00] [Event Management] Found Event: (1) 08 00 (state=0)
+[08:00:00] [Event Management] [Start] Attack Event!
+[08:06:36] [Auth][2] Disconnected
+[08:07:36] [Auth] Reconnected to Auth (2)
+[08:07:36] [Auth][2] Login Request
+[08:07:36] [Auth][2] License Check Ongoing...
+[08:07:36] [Auth][2] License Verified (Reconnect)
+[08:20:36] [Auth][2] Disconnected
+[08:21:40] [Auth] Reconnected to Auth (2)
+[08:21:40] [Auth][2] Login Request
+[08:21:40] [Auth][2] License Check Ongoing...
+[08:21:40] [Auth][2] License Verified (Reconnect)
+[08:34:37] [Auth][2] Disconnected
+[08:35:37] [Auth] Reconnected to Auth (2)
+[08:35:37] [Auth][2] Login Request
+[08:35:37] [Auth][2] License Check Ongoing...
+[08:35:37] [Auth][2] License Verified (Reconnect)
+[08:48:37] [Auth][2] Disconnected
+[08:50:20] [Auth] Unable to reconnect -> waiting for next reconnection (30s)
+[08:51:20] [Auth] Reconnected to Auth (2)
+[08:51:21] [Auth][2] Login Request
+[08:51:21] [Auth][2] License Check Ongoing...
+[08:51:21] [Auth][2] License Verified (Reconnect)
+[09:02:38] [Auth][2] Disconnected
+[09:03:42] [Auth] Reconnected to Auth (2)
+[09:03:42] [Auth][2] Login Request
+[09:03:42] [Auth][2] License Check Ongoing...
+[09:03:42] [Auth][2] License Verified (Reconnect)
+[09:16:39] [Auth][2] Disconnected
+[09:17:39] [Auth] Reconnected to Auth (2)
+[09:17:39] [Auth][2] Login Request
+[09:17:39] [Auth][2] License Check Ongoing...
+[09:17:39] [Auth][2] License Verified (Reconnect)
+[09:30:00] [Event Management] Found Event: (2) 09 30 (state=0)
+[09:30:00] [Event Management] [Start] Eledorado Event!
+[09:30:39] [Auth][2] Disconnected
+[09:31:43] [Auth] Reconnected to Auth (2)
+[09:31:43] [Auth][2] Login Request
+[09:31:43] [Auth][2] License Check Ongoing...
+[09:31:44] [Auth][2] License Verified (Reconnect)
+[09:44:40] [Auth][2] Disconnected
+[09:45:41] [Auth] Reconnected to Auth (2)
+[09:45:41] [Auth][2] Login Request
+[09:45:41] [Auth][2] License Check Ongoing...
+[09:45:42] [Auth][2] License Verified (Reconnect)
+[09:58:37] [Auth][2] Disconnected
+[09:59:38] [Auth] Reconnected to Auth (2)
+[09:59:38] [Auth][2] Login Request
+[09:59:38] [Auth][2] License Check Ongoing...
+[09:59:38] [Auth][2] License Verified (Reconnect)
+[10:01:00] [Bonus Event] Event is over
+[10:12:38] [Auth][2] Disconnected
+[10:13:38] [Auth] Reconnected to Auth (2)
+[10:13:38] [Auth][2] Login Request
+[10:13:38] [Auth][2] License Check Ongoing...
+[10:13:38] [Auth][2] License Verified (Reconnect)
+[10:26:39] [Auth][2] Disconnected
+[10:27:39] [Auth] Reconnected to Auth (2)
+[10:27:39] [Auth][2] Login Request
+[10:27:40] [Auth][2] License Check Ongoing...
+[10:27:40] [Auth][2] License Verified (Reconnect)
+[11:30:00] [Event Management] Found Event: (3) 11 30 (state=0)
+[11:30:00] [Event Management] [Start] RingAttack Event!
+[11:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:164, Y:196
+[11:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:224, Y:110
+[11:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:152, Y:123
+[12:00:00] [Event Management] Found Event: (1) 12 00 (state=0)
+[12:00:00] [Event Management] [Start] Attack Event!
+[13:00:00] [Event Management] Found Event: (0) 13 00 (state=0)
+[13:00:00] [Event Management] [Start] Red Dragon Event
+[13:00:03] [Red Dragon] Event Start
+[13:05:04] [Red Dragon] Event End
+[14:00:00] [Bonus Event] Event Started: AddExp: 1.500000, AddMLExp: 1.500000, AddMJExp: 1.500000, AddDrop: 0.000000
+[14:54:56] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:1 
+[14:59:26] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:2 
+[14:59:56] [Chaos Castle] (1) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (1) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (1) Clear Monster
+[14:59:56] [Chaos Castle] (1) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (1) SetState CLOSED
+[14:59:56] [Chaos Castle] (2) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (2) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (2) Clear Monster
+[14:59:56] [Chaos Castle] (2) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (2) SetState CLOSED
+[14:59:56] [Chaos Castle] (3) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (3) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (3) Clear Monster
+[14:59:56] [Chaos Castle] (3) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (3) SetState CLOSED
+[14:59:56] [Chaos Castle] (4) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (4) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (4) Clear Monster
+[14:59:56] [Chaos Castle] (4) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (4) SetState CLOSED
+[14:59:56] [Chaos Castle] (5) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (5) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (5) Clear Monster
+[14:59:56] [Chaos Castle] (5) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (5) SetState CLOSED
+[14:59:56] [Chaos Castle] (6) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (6) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (6) Clear Monster
+[14:59:56] [Chaos Castle] (6) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (6) SetState CLOSED
+[14:59:56] [Chaos Castle] (7) GetCurPlayUser() FAILED (UserCount:0)
+[14:59:56] [Chaos Castle] (7) Failed to Start Chaos Castle : Lack of User
+[14:59:56] [Chaos Castle] (7) Clear Monster
+[14:59:56] [Chaos Castle] (7) Sync Start Time. [0] min remain (START HOUR:15, MIN:0)
+[14:59:56] [Chaos Castle] (7) SetState CLOSED
+[14:59:57] [Chaos Castle] (1) Set Monster Drop Item (115)(Item:Jewel of Bless)
+[14:59:57] [Chaos Castle] (1) Set Monster Drop Item (78)(Item:Jewel of Bless)
+[14:59:57] [Chaos Castle] (1) Set Monster Drop Item (70)(Item:Jewel of Soul)
+[14:59:57] [Chaos Castle] (1) Set Monster Drop Item (92)(Item:Jewel of Soul)
+[14:59:57] [Chaos Castle] (1) Set Monster Drop Item Count (4)
+[14:59:57] [Chaos Castle] (1) Chaos Castle Quest Start (UserCount:0)
+[14:59:57] [Chaos Castle] (1) Has No Winner : Monster Left (99)
+[14:59:57] gObjDel() idx 37 c 162 f CChaosCastle::ClearMonster m_Index : 37 
+[14:59:57] gObjDel() idx 38 c 163 f CChaosCastle::ClearMonster m_Index : 38 
+[14:59:57] gObjDel() idx 39 c 162 f CChaosCastle::ClearMonster m_Index : 39 
+[14:59:57] gObjDel() idx 40 c 163 f CChaosCastle::ClearMonster m_Index : 40 
+[14:59:57] gObjDel() idx 41 c 162 f CChaosCastle::ClearMonster m_Index : 41 
+[14:59:57] gObjDel() idx 42 c 163 f CChaosCastle::ClearMonster m_Index : 42 
+[14:59:57] gObjDel() idx 43 c 162 f CChaosCastle::ClearMonster m_Index : 43 
+[14:59:57] gObjDel() idx 44 c 163 f CChaosCastle::ClearMonster m_Index : 44 
+[14:59:57] gObjDel() idx 45 c 162 f CChaosCastle::ClearMonster m_Index : 45 
+[14:59:57] gObjDel() idx 46 c 163 f CChaosCastle::ClearMonster m_Index : 46 
+[14:59:57] gObjDel() idx 47 c 162 f CChaosCastle::ClearMonster m_Index : 47 
+[14:59:57] gObjDel() idx 48 c 163 f CChaosCastle::ClearMonster m_Index : 48 
+[14:59:57] gObjDel() idx 49 c 162 f CChaosCastle::ClearMonster m_Index : 49 
+[14:59:57] gObjDel() idx 50 c 163 f CChaosCastle::ClearMonster m_Index : 50 
+[14:59:57] gObjDel() idx 51 c 162 f CChaosCastle::ClearMonster m_Index : 51 
+[14:59:57] gObjDel() idx 52 c 163 f CChaosCastle::ClearMonster m_Index : 52 
+[14:59:57] gObjDel() idx 53 c 162 f CChaosCastle::ClearMonster m_Index : 53 
+[14:59:57] gObjDel() idx 54 c 163 f CChaosCastle::ClearMonster m_Index : 54 
+[14:59:57] gObjDel() idx 55 c 162 f CChaosCastle::ClearMonster m_Index : 55 
+[14:59:57] gObjDel() idx 56 c 163 f CChaosCastle::ClearMonster m_Index : 56 
+[14:59:57] gObjDel() idx 57 c 162 f CChaosCastle::ClearMonster m_Index : 57 
+[14:59:57] gObjDel() idx 58 c 163 f CChaosCastle::ClearMonster m_Index : 58 
+[14:59:57] gObjDel() idx 59 c 162 f CChaosCastle::ClearMonster m_Index : 59 
+[14:59:57] gObjDel() idx 60 c 163 f CChaosCastle::ClearMonster m_Index : 60 
+[14:59:57] gObjDel() idx 61 c 162 f CChaosCastle::ClearMonster m_Index : 61 
+[14:59:57] gObjDel() idx 62 c 163 f CChaosCastle::ClearMonster m_Index : 62 
+[14:59:57] gObjDel() idx 63 c 162 f CChaosCastle::ClearMonster m_Index : 63 
+[14:59:57] gObjDel() idx 64 c 163 f CChaosCastle::ClearMonster m_Index : 64 
+[14:59:57] gObjDel() idx 65 c 162 f CChaosCastle::ClearMonster m_Index : 65 
+[14:59:57] gObjDel() idx 66 c 163 f CChaosCastle::ClearMonster m_Index : 66 
+[14:59:57] gObjDel() idx 67 c 162 f CChaosCastle::ClearMonster m_Index : 67 
+[14:59:57] gObjDel() idx 68 c 163 f CChaosCastle::ClearMonster m_Index : 68 
+[14:59:57] gObjDel() idx 69 c 162 f CChaosCastle::ClearMonster m_Index : 69 
+[14:59:57] gObjDel() idx 70 c 162 f CChaosCastle::ClearMonster m_Index : 70 
+[14:59:57] gObjDel() idx 71 c 163 f CChaosCastle::ClearMonster m_Index : 71 
+[14:59:57] gObjDel() idx 72 c 162 f CChaosCastle::ClearMonster m_Index : 72 
+[14:59:57] gObjDel() idx 73 c 163 f CChaosCastle::ClearMonster m_Index : 73 
+[14:59:57] gObjDel() idx 74 c 162 f CChaosCastle::ClearMonster m_Index : 74 
+[14:59:57] gObjDel() idx 75 c 163 f CChaosCastle::ClearMonster m_Index : 75 
+[14:59:57] gObjDel() idx 76 c 162 f CChaosCastle::ClearMonster m_Index : 76 
+[14:59:57] gObjDel() idx 77 c 163 f CChaosCastle::ClearMonster m_Index : 77 
+[14:59:57] gObjDel() idx 78 c 162 f CChaosCastle::ClearMonster m_Index : 78 
+[14:59:57] gObjDel() idx 79 c 163 f CChaosCastle::ClearMonster m_Index : 79 
+[14:59:57] gObjDel() idx 80 c 162 f CChaosCastle::ClearMonster m_Index : 80 
+[14:59:57] gObjDel() idx 81 c 163 f CChaosCastle::ClearMonster m_Index : 81 
+[14:59:57] gObjDel() idx 82 c 162 f CChaosCastle::ClearMonster m_Index : 82 
+[14:59:57] gObjDel() idx 83 c 163 f CChaosCastle::ClearMonster m_Index : 83 
+[14:59:57] gObjDel() idx 84 c 162 f CChaosCastle::ClearMonster m_Index : 84 
+[14:59:57] gObjDel() idx 85 c 163 f CChaosCastle::ClearMonster m_Index : 85 
+[14:59:57] gObjDel() idx 86 c 162 f CChaosCastle::ClearMonster m_Index : 86 
+[14:59:57] gObjDel() idx 87 c 163 f CChaosCastle::ClearMonster m_Index : 87 
+[14:59:57] gObjDel() idx 88 c 162 f CChaosCastle::ClearMonster m_Index : 88 
+[14:59:57] gObjDel() idx 89 c 163 f CChaosCastle::ClearMonster m_Index : 89 
+[14:59:57] gObjDel() idx 90 c 162 f CChaosCastle::ClearMonster m_Index : 90 
+[14:59:57] gObjDel() idx 91 c 163 f CChaosCastle::ClearMonster m_Index : 91 
+[14:59:57] gObjDel() idx 92 c 162 f CChaosCastle::ClearMonster m_Index : 92 
+[14:59:57] gObjDel() idx 93 c 163 f CChaosCastle::ClearMonster m_Index : 93 
+[14:59:57] gObjDel() idx 94 c 162 f CChaosCastle::ClearMonster m_Index : 94 
+[14:59:57] gObjDel() idx 95 c 163 f CChaosCastle::ClearMonster m_Index : 95 
+[14:59:57] gObjDel() idx 96 c 162 f CChaosCastle::ClearMonster m_Index : 96 
+[14:59:57] gObjDel() idx 97 c 163 f CChaosCastle::ClearMonster m_Index : 97 
+[14:59:57] gObjDel() idx 98 c 162 f CChaosCastle::ClearMonster m_Index : 98 
+[14:59:57] gObjDel() idx 99 c 163 f CChaosCastle::ClearMonster m_Index : 99 
+[14:59:57] gObjDel() idx 100 c 162 f CChaosCastle::ClearMonster m_Index : 100 
+[14:59:57] gObjDel() idx 101 c 163 f CChaosCastle::ClearMonster m_Index : 101 
+[14:59:57] gObjDel() idx 102 c 162 f CChaosCastle::ClearMonster m_Index : 102 
+[14:59:57] gObjDel() idx 103 c 163 f CChaosCastle::ClearMonster m_Index : 103 
+[14:59:57] gObjDel() idx 104 c 162 f CChaosCastle::ClearMonster m_Index : 104 
+[14:59:57] gObjDel() idx 105 c 163 f CChaosCastle::ClearMonster m_Index : 105 
+[14:59:57] gObjDel() idx 106 c 162 f CChaosCastle::ClearMonster m_Index : 106 
+[14:59:57] gObjDel() idx 107 c 163 f CChaosCastle::ClearMonster m_Index : 107 
+[14:59:57] gObjDel() idx 108 c 162 f CChaosCastle::ClearMonster m_Index : 108 
+[14:59:57] gObjDel() idx 109 c 163 f CChaosCastle::ClearMonster m_Index : 109 
+[14:59:57] gObjDel() idx 110 c 162 f CChaosCastle::ClearMonster m_Index : 110 
+[14:59:57] gObjDel() idx 111 c 163 f CChaosCastle::ClearMonster m_Index : 111 
+[14:59:57] gObjDel() idx 112 c 162 f CChaosCastle::ClearMonster m_Index : 112 
+[14:59:57] gObjDel() idx 113 c 163 f CChaosCastle::ClearMonster m_Index : 113 
+[14:59:57] gObjDel() idx 114 c 162 f CChaosCastle::ClearMonster m_Index : 114 
+[14:59:57] gObjDel() idx 115 c 163 f CChaosCastle::ClearMonster m_Index : 115 
+[14:59:57] gObjDel() idx 116 c 162 f CChaosCastle::ClearMonster m_Index : 116 
+[14:59:57] gObjDel() idx 117 c 163 f CChaosCastle::ClearMonster m_Index : 117 
+[14:59:57] gObjDel() idx 118 c 162 f CChaosCastle::ClearMonster m_Index : 118 
+[14:59:57] gObjDel() idx 119 c 163 f CChaosCastle::ClearMonster m_Index : 119 
+[14:59:57] gObjDel() idx 120 c 162 f CChaosCastle::ClearMonster m_Index : 120 
+[14:59:57] gObjDel() idx 121 c 163 f CChaosCastle::ClearMonster m_Index : 121 
+[14:59:57] gObjDel() idx 122 c 162 f CChaosCastle::ClearMonster m_Index : 122 
+[14:59:57] gObjDel() idx 123 c 163 f CChaosCastle::ClearMonster m_Index : 123 
+[14:59:57] gObjDel() idx 124 c 162 f CChaosCastle::ClearMonster m_Index : 124 
+[14:59:57] gObjDel() idx 125 c 163 f CChaosCastle::ClearMonster m_Index : 125 
+[14:59:57] gObjDel() idx 126 c 162 f CChaosCastle::ClearMonster m_Index : 126 
+[14:59:57] gObjDel() idx 127 c 163 f CChaosCastle::ClearMonster m_Index : 127 
+[14:59:57] gObjDel() idx 128 c 162 f CChaosCastle::ClearMonster m_Index : 128 
+[14:59:57] gObjDel() idx 129 c 163 f CChaosCastle::ClearMonster m_Index : 129 
+[14:59:57] gObjDel() idx 130 c 162 f CChaosCastle::ClearMonster m_Index : 130 
+[14:59:57] gObjDel() idx 131 c 163 f CChaosCastle::ClearMonster m_Index : 131 
+[14:59:57] gObjDel() idx 132 c 162 f CChaosCastle::ClearMonster m_Index : 132 
+[14:59:57] gObjDel() idx 133 c 163 f CChaosCastle::ClearMonster m_Index : 133 
+[14:59:57] gObjDel() idx 134 c 162 f CChaosCastle::ClearMonster m_Index : 134 
+[14:59:57] gObjDel() idx 135 c 163 f CChaosCastle::ClearMonster m_Index : 135 
+[14:59:57] [Chaos Castle] (1) Clear Monster
+[14:59:57] [Chaos Castle] (1) SetState PLAYEND
+[14:59:58] [Chaos Castle] (2) Set Monster Drop Item (152)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (2) Set Monster Drop Item (206)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (2) Set Monster Drop Item (197)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (2) Set Monster Drop Item (150)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (2) Set Monster Drop Item Count (4)
+[14:59:58] [Chaos Castle] (2) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (2) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 136 c 164 f CChaosCastle::ClearMonster m_Index : 136 
+[14:59:58] gObjDel() idx 137 c 165 f CChaosCastle::ClearMonster m_Index : 137 
+[14:59:58] gObjDel() idx 138 c 164 f CChaosCastle::ClearMonster m_Index : 138 
+[14:59:58] gObjDel() idx 139 c 165 f CChaosCastle::ClearMonster m_Index : 139 
+[14:59:58] gObjDel() idx 140 c 164 f CChaosCastle::ClearMonster m_Index : 140 
+[14:59:58] gObjDel() idx 141 c 165 f CChaosCastle::ClearMonster m_Index : 141 
+[14:59:58] gObjDel() idx 142 c 164 f CChaosCastle::ClearMonster m_Index : 142 
+[14:59:58] gObjDel() idx 143 c 165 f CChaosCastle::ClearMonster m_Index : 143 
+[14:59:58] gObjDel() idx 144 c 164 f CChaosCastle::ClearMonster m_Index : 144 
+[14:59:58] gObjDel() idx 145 c 165 f CChaosCastle::ClearMonster m_Index : 145 
+[14:59:58] gObjDel() idx 146 c 164 f CChaosCastle::ClearMonster m_Index : 146 
+[14:59:58] gObjDel() idx 147 c 165 f CChaosCastle::ClearMonster m_Index : 147 
+[14:59:58] gObjDel() idx 148 c 164 f CChaosCastle::ClearMonster m_Index : 148 
+[14:59:58] gObjDel() idx 149 c 165 f CChaosCastle::ClearMonster m_Index : 149 
+[14:59:58] gObjDel() idx 150 c 164 f CChaosCastle::ClearMonster m_Index : 150 
+[14:59:58] gObjDel() idx 151 c 165 f CChaosCastle::ClearMonster m_Index : 151 
+[14:59:58] gObjDel() idx 152 c 164 f CChaosCastle::ClearMonster m_Index : 152 
+[14:59:58] gObjDel() idx 153 c 165 f CChaosCastle::ClearMonster m_Index : 153 
+[14:59:58] gObjDel() idx 154 c 164 f CChaosCastle::ClearMonster m_Index : 154 
+[14:59:58] gObjDel() idx 155 c 165 f CChaosCastle::ClearMonster m_Index : 155 
+[14:59:58] gObjDel() idx 156 c 164 f CChaosCastle::ClearMonster m_Index : 156 
+[14:59:58] gObjDel() idx 157 c 165 f CChaosCastle::ClearMonster m_Index : 157 
+[14:59:58] gObjDel() idx 158 c 164 f CChaosCastle::ClearMonster m_Index : 158 
+[14:59:58] gObjDel() idx 159 c 165 f CChaosCastle::ClearMonster m_Index : 159 
+[14:59:58] gObjDel() idx 160 c 164 f CChaosCastle::ClearMonster m_Index : 160 
+[14:59:58] gObjDel() idx 161 c 165 f CChaosCastle::ClearMonster m_Index : 161 
+[14:59:58] gObjDel() idx 162 c 164 f CChaosCastle::ClearMonster m_Index : 162 
+[14:59:58] gObjDel() idx 163 c 165 f CChaosCastle::ClearMonster m_Index : 163 
+[14:59:58] gObjDel() idx 164 c 164 f CChaosCastle::ClearMonster m_Index : 164 
+[14:59:58] gObjDel() idx 165 c 165 f CChaosCastle::ClearMonster m_Index : 165 
+[14:59:58] gObjDel() idx 166 c 164 f CChaosCastle::ClearMonster m_Index : 166 
+[14:59:58] gObjDel() idx 167 c 165 f CChaosCastle::ClearMonster m_Index : 167 
+[14:59:58] gObjDel() idx 168 c 164 f CChaosCastle::ClearMonster m_Index : 168 
+[14:59:58] gObjDel() idx 169 c 164 f CChaosCastle::ClearMonster m_Index : 169 
+[14:59:58] gObjDel() idx 170 c 165 f CChaosCastle::ClearMonster m_Index : 170 
+[14:59:58] gObjDel() idx 171 c 164 f CChaosCastle::ClearMonster m_Index : 171 
+[14:59:58] gObjDel() idx 172 c 165 f CChaosCastle::ClearMonster m_Index : 172 
+[14:59:58] gObjDel() idx 173 c 164 f CChaosCastle::ClearMonster m_Index : 173 
+[14:59:58] gObjDel() idx 174 c 165 f CChaosCastle::ClearMonster m_Index : 174 
+[14:59:58] gObjDel() idx 175 c 164 f CChaosCastle::ClearMonster m_Index : 175 
+[14:59:58] gObjDel() idx 176 c 165 f CChaosCastle::ClearMonster m_Index : 176 
+[14:59:58] gObjDel() idx 177 c 164 f CChaosCastle::ClearMonster m_Index : 177 
+[14:59:58] gObjDel() idx 178 c 165 f CChaosCastle::ClearMonster m_Index : 178 
+[14:59:58] gObjDel() idx 179 c 164 f CChaosCastle::ClearMonster m_Index : 179 
+[14:59:58] gObjDel() idx 180 c 165 f CChaosCastle::ClearMonster m_Index : 180 
+[14:59:58] gObjDel() idx 181 c 164 f CChaosCastle::ClearMonster m_Index : 181 
+[14:59:58] gObjDel() idx 182 c 165 f CChaosCastle::ClearMonster m_Index : 182 
+[14:59:58] gObjDel() idx 183 c 164 f CChaosCastle::ClearMonster m_Index : 183 
+[14:59:58] gObjDel() idx 184 c 165 f CChaosCastle::ClearMonster m_Index : 184 
+[14:59:58] gObjDel() idx 185 c 164 f CChaosCastle::ClearMonster m_Index : 185 
+[14:59:58] gObjDel() idx 186 c 165 f CChaosCastle::ClearMonster m_Index : 186 
+[14:59:58] gObjDel() idx 187 c 164 f CChaosCastle::ClearMonster m_Index : 187 
+[14:59:58] gObjDel() idx 188 c 165 f CChaosCastle::ClearMonster m_Index : 188 
+[14:59:58] gObjDel() idx 189 c 164 f CChaosCastle::ClearMonster m_Index : 189 
+[14:59:58] gObjDel() idx 190 c 165 f CChaosCastle::ClearMonster m_Index : 190 
+[14:59:58] gObjDel() idx 191 c 164 f CChaosCastle::ClearMonster m_Index : 191 
+[14:59:58] gObjDel() idx 192 c 165 f CChaosCastle::ClearMonster m_Index : 192 
+[14:59:58] gObjDel() idx 193 c 164 f CChaosCastle::ClearMonster m_Index : 193 
+[14:59:58] gObjDel() idx 194 c 165 f CChaosCastle::ClearMonster m_Index : 194 
+[14:59:58] gObjDel() idx 195 c 164 f CChaosCastle::ClearMonster m_Index : 195 
+[14:59:58] gObjDel() idx 196 c 165 f CChaosCastle::ClearMonster m_Index : 196 
+[14:59:58] gObjDel() idx 197 c 164 f CChaosCastle::ClearMonster m_Index : 197 
+[14:59:58] gObjDel() idx 198 c 165 f CChaosCastle::ClearMonster m_Index : 198 
+[14:59:58] gObjDel() idx 199 c 164 f CChaosCastle::ClearMonster m_Index : 199 
+[14:59:58] gObjDel() idx 200 c 165 f CChaosCastle::ClearMonster m_Index : 200 
+[14:59:58] gObjDel() idx 201 c 164 f CChaosCastle::ClearMonster m_Index : 201 
+[14:59:58] gObjDel() idx 202 c 165 f CChaosCastle::ClearMonster m_Index : 202 
+[14:59:58] gObjDel() idx 203 c 164 f CChaosCastle::ClearMonster m_Index : 203 
+[14:59:58] gObjDel() idx 204 c 165 f CChaosCastle::ClearMonster m_Index : 204 
+[14:59:58] gObjDel() idx 205 c 164 f CChaosCastle::ClearMonster m_Index : 205 
+[14:59:58] gObjDel() idx 206 c 165 f CChaosCastle::ClearMonster m_Index : 206 
+[14:59:58] gObjDel() idx 207 c 164 f CChaosCastle::ClearMonster m_Index : 207 
+[14:59:58] gObjDel() idx 208 c 165 f CChaosCastle::ClearMonster m_Index : 208 
+[14:59:58] gObjDel() idx 209 c 164 f CChaosCastle::ClearMonster m_Index : 209 
+[14:59:58] gObjDel() idx 210 c 165 f CChaosCastle::ClearMonster m_Index : 210 
+[14:59:58] gObjDel() idx 211 c 164 f CChaosCastle::ClearMonster m_Index : 211 
+[14:59:58] gObjDel() idx 212 c 165 f CChaosCastle::ClearMonster m_Index : 212 
+[14:59:58] gObjDel() idx 213 c 164 f CChaosCastle::ClearMonster m_Index : 213 
+[14:59:58] gObjDel() idx 214 c 165 f CChaosCastle::ClearMonster m_Index : 214 
+[14:59:58] gObjDel() idx 215 c 164 f CChaosCastle::ClearMonster m_Index : 215 
+[14:59:58] gObjDel() idx 216 c 165 f CChaosCastle::ClearMonster m_Index : 216 
+[14:59:58] gObjDel() idx 217 c 164 f CChaosCastle::ClearMonster m_Index : 217 
+[14:59:58] gObjDel() idx 218 c 165 f CChaosCastle::ClearMonster m_Index : 218 
+[14:59:58] gObjDel() idx 219 c 164 f CChaosCastle::ClearMonster m_Index : 219 
+[14:59:58] gObjDel() idx 220 c 165 f CChaosCastle::ClearMonster m_Index : 220 
+[14:59:58] gObjDel() idx 221 c 164 f CChaosCastle::ClearMonster m_Index : 221 
+[14:59:58] gObjDel() idx 222 c 165 f CChaosCastle::ClearMonster m_Index : 222 
+[14:59:58] gObjDel() idx 223 c 164 f CChaosCastle::ClearMonster m_Index : 223 
+[14:59:58] gObjDel() idx 224 c 165 f CChaosCastle::ClearMonster m_Index : 224 
+[14:59:58] gObjDel() idx 225 c 164 f CChaosCastle::ClearMonster m_Index : 225 
+[14:59:58] gObjDel() idx 226 c 165 f CChaosCastle::ClearMonster m_Index : 226 
+[14:59:58] gObjDel() idx 227 c 164 f CChaosCastle::ClearMonster m_Index : 227 
+[14:59:58] gObjDel() idx 228 c 165 f CChaosCastle::ClearMonster m_Index : 228 
+[14:59:58] gObjDel() idx 229 c 164 f CChaosCastle::ClearMonster m_Index : 229 
+[14:59:58] gObjDel() idx 230 c 165 f CChaosCastle::ClearMonster m_Index : 230 
+[14:59:58] gObjDel() idx 231 c 164 f CChaosCastle::ClearMonster m_Index : 231 
+[14:59:58] gObjDel() idx 232 c 165 f CChaosCastle::ClearMonster m_Index : 232 
+[14:59:58] gObjDel() idx 233 c 164 f CChaosCastle::ClearMonster m_Index : 233 
+[14:59:58] gObjDel() idx 234 c 165 f CChaosCastle::ClearMonster m_Index : 234 
+[14:59:58] [Chaos Castle] (2) Clear Monster
+[14:59:58] [Chaos Castle] (2) SetState PLAYEND
+[14:59:58] [Chaos Castle] (3) Set Monster Drop Item (260)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (3) Set Monster Drop Item (313)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (3) Set Monster Drop Item (289)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (3) Set Monster Drop Item (296)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (3) Set Monster Drop Item Count (4)
+[14:59:58] [Chaos Castle] (3) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (3) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 235 c 166 f CChaosCastle::ClearMonster m_Index : 235 
+[14:59:58] gObjDel() idx 236 c 167 f CChaosCastle::ClearMonster m_Index : 236 
+[14:59:58] gObjDel() idx 237 c 166 f CChaosCastle::ClearMonster m_Index : 237 
+[14:59:58] gObjDel() idx 238 c 167 f CChaosCastle::ClearMonster m_Index : 238 
+[14:59:58] gObjDel() idx 239 c 166 f CChaosCastle::ClearMonster m_Index : 239 
+[14:59:58] gObjDel() idx 240 c 167 f CChaosCastle::ClearMonster m_Index : 240 
+[14:59:58] gObjDel() idx 241 c 166 f CChaosCastle::ClearMonster m_Index : 241 
+[14:59:58] gObjDel() idx 242 c 167 f CChaosCastle::ClearMonster m_Index : 242 
+[14:59:58] gObjDel() idx 243 c 166 f CChaosCastle::ClearMonster m_Index : 243 
+[14:59:58] gObjDel() idx 244 c 167 f CChaosCastle::ClearMonster m_Index : 244 
+[14:59:58] gObjDel() idx 245 c 166 f CChaosCastle::ClearMonster m_Index : 245 
+[14:59:58] gObjDel() idx 246 c 167 f CChaosCastle::ClearMonster m_Index : 246 
+[14:59:58] gObjDel() idx 247 c 166 f CChaosCastle::ClearMonster m_Index : 247 
+[14:59:58] gObjDel() idx 248 c 167 f CChaosCastle::ClearMonster m_Index : 248 
+[14:59:58] gObjDel() idx 249 c 166 f CChaosCastle::ClearMonster m_Index : 249 
+[14:59:58] gObjDel() idx 250 c 167 f CChaosCastle::ClearMonster m_Index : 250 
+[14:59:58] gObjDel() idx 251 c 166 f CChaosCastle::ClearMonster m_Index : 251 
+[14:59:58] gObjDel() idx 252 c 167 f CChaosCastle::ClearMonster m_Index : 252 
+[14:59:58] gObjDel() idx 253 c 166 f CChaosCastle::ClearMonster m_Index : 253 
+[14:59:58] gObjDel() idx 254 c 167 f CChaosCastle::ClearMonster m_Index : 254 
+[14:59:58] gObjDel() idx 255 c 166 f CChaosCastle::ClearMonster m_Index : 255 
+[14:59:58] gObjDel() idx 256 c 167 f CChaosCastle::ClearMonster m_Index : 256 
+[14:59:58] gObjDel() idx 257 c 166 f CChaosCastle::ClearMonster m_Index : 257 
+[14:59:58] gObjDel() idx 258 c 167 f CChaosCastle::ClearMonster m_Index : 258 
+[14:59:58] gObjDel() idx 259 c 166 f CChaosCastle::ClearMonster m_Index : 259 
+[14:59:58] gObjDel() idx 260 c 167 f CChaosCastle::ClearMonster m_Index : 260 
+[14:59:58] gObjDel() idx 261 c 166 f CChaosCastle::ClearMonster m_Index : 261 
+[14:59:58] gObjDel() idx 262 c 167 f CChaosCastle::ClearMonster m_Index : 262 
+[14:59:58] gObjDel() idx 263 c 166 f CChaosCastle::ClearMonster m_Index : 263 
+[14:59:58] gObjDel() idx 264 c 167 f CChaosCastle::ClearMonster m_Index : 264 
+[14:59:58] gObjDel() idx 265 c 166 f CChaosCastle::ClearMonster m_Index : 265 
+[14:59:58] gObjDel() idx 266 c 167 f CChaosCastle::ClearMonster m_Index : 266 
+[14:59:58] gObjDel() idx 267 c 166 f CChaosCastle::ClearMonster m_Index : 267 
+[14:59:58] gObjDel() idx 268 c 166 f CChaosCastle::ClearMonster m_Index : 268 
+[14:59:58] gObjDel() idx 269 c 167 f CChaosCastle::ClearMonster m_Index : 269 
+[14:59:58] gObjDel() idx 270 c 166 f CChaosCastle::ClearMonster m_Index : 270 
+[14:59:58] gObjDel() idx 271 c 167 f CChaosCastle::ClearMonster m_Index : 271 
+[14:59:58] gObjDel() idx 272 c 166 f CChaosCastle::ClearMonster m_Index : 272 
+[14:59:58] gObjDel() idx 273 c 167 f CChaosCastle::ClearMonster m_Index : 273 
+[14:59:58] gObjDel() idx 274 c 166 f CChaosCastle::ClearMonster m_Index : 274 
+[14:59:58] gObjDel() idx 275 c 167 f CChaosCastle::ClearMonster m_Index : 275 
+[14:59:58] gObjDel() idx 276 c 166 f CChaosCastle::ClearMonster m_Index : 276 
+[14:59:58] gObjDel() idx 277 c 167 f CChaosCastle::ClearMonster m_Index : 277 
+[14:59:58] gObjDel() idx 278 c 166 f CChaosCastle::ClearMonster m_Index : 278 
+[14:59:58] gObjDel() idx 279 c 167 f CChaosCastle::ClearMonster m_Index : 279 
+[14:59:58] gObjDel() idx 280 c 166 f CChaosCastle::ClearMonster m_Index : 280 
+[14:59:58] gObjDel() idx 281 c 167 f CChaosCastle::ClearMonster m_Index : 281 
+[14:59:58] gObjDel() idx 282 c 166 f CChaosCastle::ClearMonster m_Index : 282 
+[14:59:58] gObjDel() idx 283 c 167 f CChaosCastle::ClearMonster m_Index : 283 
+[14:59:58] gObjDel() idx 284 c 166 f CChaosCastle::ClearMonster m_Index : 284 
+[14:59:58] gObjDel() idx 285 c 167 f CChaosCastle::ClearMonster m_Index : 285 
+[14:59:58] gObjDel() idx 286 c 166 f CChaosCastle::ClearMonster m_Index : 286 
+[14:59:58] gObjDel() idx 287 c 167 f CChaosCastle::ClearMonster m_Index : 287 
+[14:59:58] gObjDel() idx 288 c 166 f CChaosCastle::ClearMonster m_Index : 288 
+[14:59:58] gObjDel() idx 289 c 167 f CChaosCastle::ClearMonster m_Index : 289 
+[14:59:58] gObjDel() idx 290 c 166 f CChaosCastle::ClearMonster m_Index : 290 
+[14:59:58] gObjDel() idx 291 c 167 f CChaosCastle::ClearMonster m_Index : 291 
+[14:59:58] gObjDel() idx 292 c 166 f CChaosCastle::ClearMonster m_Index : 292 
+[14:59:58] gObjDel() idx 293 c 167 f CChaosCastle::ClearMonster m_Index : 293 
+[14:59:58] gObjDel() idx 294 c 166 f CChaosCastle::ClearMonster m_Index : 294 
+[14:59:58] gObjDel() idx 295 c 167 f CChaosCastle::ClearMonster m_Index : 295 
+[14:59:58] gObjDel() idx 296 c 166 f CChaosCastle::ClearMonster m_Index : 296 
+[14:59:58] gObjDel() idx 297 c 167 f CChaosCastle::ClearMonster m_Index : 297 
+[14:59:58] gObjDel() idx 298 c 166 f CChaosCastle::ClearMonster m_Index : 298 
+[14:59:58] gObjDel() idx 299 c 167 f CChaosCastle::ClearMonster m_Index : 299 
+[14:59:58] gObjDel() idx 300 c 166 f CChaosCastle::ClearMonster m_Index : 300 
+[14:59:58] gObjDel() idx 301 c 167 f CChaosCastle::ClearMonster m_Index : 301 
+[14:59:58] gObjDel() idx 302 c 166 f CChaosCastle::ClearMonster m_Index : 302 
+[14:59:58] gObjDel() idx 303 c 167 f CChaosCastle::ClearMonster m_Index : 303 
+[14:59:58] gObjDel() idx 304 c 166 f CChaosCastle::ClearMonster m_Index : 304 
+[14:59:58] gObjDel() idx 305 c 167 f CChaosCastle::ClearMonster m_Index : 305 
+[14:59:58] gObjDel() idx 306 c 166 f CChaosCastle::ClearMonster m_Index : 306 
+[14:59:58] gObjDel() idx 307 c 167 f CChaosCastle::ClearMonster m_Index : 307 
+[14:59:58] gObjDel() idx 308 c 166 f CChaosCastle::ClearMonster m_Index : 308 
+[14:59:58] gObjDel() idx 309 c 167 f CChaosCastle::ClearMonster m_Index : 309 
+[14:59:58] gObjDel() idx 310 c 166 f CChaosCastle::ClearMonster m_Index : 310 
+[14:59:58] gObjDel() idx 311 c 167 f CChaosCastle::ClearMonster m_Index : 311 
+[14:59:58] gObjDel() idx 312 c 166 f CChaosCastle::ClearMonster m_Index : 312 
+[14:59:58] gObjDel() idx 313 c 167 f CChaosCastle::ClearMonster m_Index : 313 
+[14:59:58] gObjDel() idx 314 c 166 f CChaosCastle::ClearMonster m_Index : 314 
+[14:59:58] gObjDel() idx 315 c 167 f CChaosCastle::ClearMonster m_Index : 315 
+[14:59:58] gObjDel() idx 316 c 166 f CChaosCastle::ClearMonster m_Index : 316 
+[14:59:58] gObjDel() idx 317 c 167 f CChaosCastle::ClearMonster m_Index : 317 
+[14:59:58] gObjDel() idx 318 c 166 f CChaosCastle::ClearMonster m_Index : 318 
+[14:59:58] gObjDel() idx 319 c 167 f CChaosCastle::ClearMonster m_Index : 319 
+[14:59:58] gObjDel() idx 320 c 166 f CChaosCastle::ClearMonster m_Index : 320 
+[14:59:58] gObjDel() idx 321 c 167 f CChaosCastle::ClearMonster m_Index : 321 
+[14:59:58] gObjDel() idx 322 c 166 f CChaosCastle::ClearMonster m_Index : 322 
+[14:59:58] gObjDel() idx 323 c 167 f CChaosCastle::ClearMonster m_Index : 323 
+[14:59:58] gObjDel() idx 324 c 166 f CChaosCastle::ClearMonster m_Index : 324 
+[14:59:58] gObjDel() idx 325 c 167 f CChaosCastle::ClearMonster m_Index : 325 
+[14:59:58] gObjDel() idx 326 c 166 f CChaosCastle::ClearMonster m_Index : 326 
+[14:59:58] gObjDel() idx 327 c 167 f CChaosCastle::ClearMonster m_Index : 327 
+[14:59:58] gObjDel() idx 328 c 166 f CChaosCastle::ClearMonster m_Index : 328 
+[14:59:58] gObjDel() idx 329 c 167 f CChaosCastle::ClearMonster m_Index : 329 
+[14:59:58] gObjDel() idx 330 c 166 f CChaosCastle::ClearMonster m_Index : 330 
+[14:59:58] gObjDel() idx 331 c 167 f CChaosCastle::ClearMonster m_Index : 331 
+[14:59:58] gObjDel() idx 332 c 166 f CChaosCastle::ClearMonster m_Index : 332 
+[14:59:58] gObjDel() idx 333 c 167 f CChaosCastle::ClearMonster m_Index : 333 
+[14:59:58] [Chaos Castle] (3) Clear Monster
+[14:59:58] [Chaos Castle] (3) SetState PLAYEND
+[14:59:58] [Chaos Castle] (4) Set Monster Drop Item (376)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (4) Set Monster Drop Item (424)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (4) Set Monster Drop Item (354)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (4) Set Monster Drop Item (363)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (4) Set Monster Drop Item Count (4)
+[14:59:58] [Chaos Castle] (4) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (4) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 334 c 168 f CChaosCastle::ClearMonster m_Index : 334 
+[14:59:58] gObjDel() idx 335 c 169 f CChaosCastle::ClearMonster m_Index : 335 
+[14:59:58] gObjDel() idx 336 c 168 f CChaosCastle::ClearMonster m_Index : 336 
+[14:59:58] gObjDel() idx 337 c 169 f CChaosCastle::ClearMonster m_Index : 337 
+[14:59:58] gObjDel() idx 338 c 168 f CChaosCastle::ClearMonster m_Index : 338 
+[14:59:58] gObjDel() idx 339 c 169 f CChaosCastle::ClearMonster m_Index : 339 
+[14:59:58] gObjDel() idx 340 c 168 f CChaosCastle::ClearMonster m_Index : 340 
+[14:59:58] gObjDel() idx 341 c 169 f CChaosCastle::ClearMonster m_Index : 341 
+[14:59:58] gObjDel() idx 342 c 168 f CChaosCastle::ClearMonster m_Index : 342 
+[14:59:58] gObjDel() idx 343 c 169 f CChaosCastle::ClearMonster m_Index : 343 
+[14:59:58] gObjDel() idx 344 c 168 f CChaosCastle::ClearMonster m_Index : 344 
+[14:59:58] gObjDel() idx 345 c 169 f CChaosCastle::ClearMonster m_Index : 345 
+[14:59:58] gObjDel() idx 346 c 168 f CChaosCastle::ClearMonster m_Index : 346 
+[14:59:58] gObjDel() idx 347 c 169 f CChaosCastle::ClearMonster m_Index : 347 
+[14:59:58] gObjDel() idx 348 c 168 f CChaosCastle::ClearMonster m_Index : 348 
+[14:59:58] gObjDel() idx 349 c 169 f CChaosCastle::ClearMonster m_Index : 349 
+[14:59:58] gObjDel() idx 350 c 168 f CChaosCastle::ClearMonster m_Index : 350 
+[14:59:58] gObjDel() idx 351 c 169 f CChaosCastle::ClearMonster m_Index : 351 
+[14:59:58] gObjDel() idx 352 c 168 f CChaosCastle::ClearMonster m_Index : 352 
+[14:59:58] gObjDel() idx 353 c 169 f CChaosCastle::ClearMonster m_Index : 353 
+[14:59:58] gObjDel() idx 354 c 168 f CChaosCastle::ClearMonster m_Index : 354 
+[14:59:58] gObjDel() idx 355 c 169 f CChaosCastle::ClearMonster m_Index : 355 
+[14:59:58] gObjDel() idx 356 c 168 f CChaosCastle::ClearMonster m_Index : 356 
+[14:59:58] gObjDel() idx 357 c 169 f CChaosCastle::ClearMonster m_Index : 357 
+[14:59:58] gObjDel() idx 358 c 168 f CChaosCastle::ClearMonster m_Index : 358 
+[14:59:58] gObjDel() idx 359 c 169 f CChaosCastle::ClearMonster m_Index : 359 
+[14:59:58] gObjDel() idx 360 c 168 f CChaosCastle::ClearMonster m_Index : 360 
+[14:59:58] gObjDel() idx 361 c 169 f CChaosCastle::ClearMonster m_Index : 361 
+[14:59:58] gObjDel() idx 362 c 168 f CChaosCastle::ClearMonster m_Index : 362 
+[14:59:58] gObjDel() idx 363 c 169 f CChaosCastle::ClearMonster m_Index : 363 
+[14:59:58] gObjDel() idx 364 c 168 f CChaosCastle::ClearMonster m_Index : 364 
+[14:59:58] gObjDel() idx 365 c 169 f CChaosCastle::ClearMonster m_Index : 365 
+[14:59:58] gObjDel() idx 366 c 168 f CChaosCastle::ClearMonster m_Index : 366 
+[14:59:58] gObjDel() idx 367 c 168 f CChaosCastle::ClearMonster m_Index : 367 
+[14:59:58] gObjDel() idx 368 c 169 f CChaosCastle::ClearMonster m_Index : 368 
+[14:59:58] gObjDel() idx 369 c 168 f CChaosCastle::ClearMonster m_Index : 369 
+[14:59:58] gObjDel() idx 370 c 169 f CChaosCastle::ClearMonster m_Index : 370 
+[14:59:58] gObjDel() idx 371 c 168 f CChaosCastle::ClearMonster m_Index : 371 
+[14:59:58] gObjDel() idx 372 c 169 f CChaosCastle::ClearMonster m_Index : 372 
+[14:59:58] gObjDel() idx 373 c 168 f CChaosCastle::ClearMonster m_Index : 373 
+[14:59:58] gObjDel() idx 374 c 169 f CChaosCastle::ClearMonster m_Index : 374 
+[14:59:58] gObjDel() idx 375 c 168 f CChaosCastle::ClearMonster m_Index : 375 
+[14:59:58] gObjDel() idx 376 c 169 f CChaosCastle::ClearMonster m_Index : 376 
+[14:59:58] gObjDel() idx 377 c 168 f CChaosCastle::ClearMonster m_Index : 377 
+[14:59:58] gObjDel() idx 378 c 169 f CChaosCastle::ClearMonster m_Index : 378 
+[14:59:58] gObjDel() idx 379 c 168 f CChaosCastle::ClearMonster m_Index : 379 
+[14:59:58] gObjDel() idx 380 c 169 f CChaosCastle::ClearMonster m_Index : 380 
+[14:59:58] gObjDel() idx 381 c 168 f CChaosCastle::ClearMonster m_Index : 381 
+[14:59:58] gObjDel() idx 382 c 169 f CChaosCastle::ClearMonster m_Index : 382 
+[14:59:58] gObjDel() idx 383 c 168 f CChaosCastle::ClearMonster m_Index : 383 
+[14:59:58] gObjDel() idx 384 c 169 f CChaosCastle::ClearMonster m_Index : 384 
+[14:59:58] gObjDel() idx 385 c 168 f CChaosCastle::ClearMonster m_Index : 385 
+[14:59:58] gObjDel() idx 386 c 169 f CChaosCastle::ClearMonster m_Index : 386 
+[14:59:58] gObjDel() idx 387 c 168 f CChaosCastle::ClearMonster m_Index : 387 
+[14:59:58] gObjDel() idx 388 c 169 f CChaosCastle::ClearMonster m_Index : 388 
+[14:59:58] gObjDel() idx 389 c 168 f CChaosCastle::ClearMonster m_Index : 389 
+[14:59:58] gObjDel() idx 390 c 169 f CChaosCastle::ClearMonster m_Index : 390 
+[14:59:58] gObjDel() idx 391 c 168 f CChaosCastle::ClearMonster m_Index : 391 
+[14:59:58] gObjDel() idx 392 c 169 f CChaosCastle::ClearMonster m_Index : 392 
+[14:59:58] gObjDel() idx 393 c 168 f CChaosCastle::ClearMonster m_Index : 393 
+[14:59:58] gObjDel() idx 394 c 169 f CChaosCastle::ClearMonster m_Index : 394 
+[14:59:58] gObjDel() idx 395 c 168 f CChaosCastle::ClearMonster m_Index : 395 
+[14:59:58] gObjDel() idx 396 c 169 f CChaosCastle::ClearMonster m_Index : 396 
+[14:59:58] gObjDel() idx 397 c 168 f CChaosCastle::ClearMonster m_Index : 397 
+[14:59:58] gObjDel() idx 398 c 169 f CChaosCastle::ClearMonster m_Index : 398 
+[14:59:58] gObjDel() idx 399 c 168 f CChaosCastle::ClearMonster m_Index : 399 
+[14:59:58] gObjDel() idx 400 c 169 f CChaosCastle::ClearMonster m_Index : 400 
+[14:59:58] gObjDel() idx 401 c 168 f CChaosCastle::ClearMonster m_Index : 401 
+[14:59:58] gObjDel() idx 402 c 169 f CChaosCastle::ClearMonster m_Index : 402 
+[14:59:58] gObjDel() idx 403 c 168 f CChaosCastle::ClearMonster m_Index : 403 
+[14:59:58] gObjDel() idx 404 c 169 f CChaosCastle::ClearMonster m_Index : 404 
+[14:59:58] gObjDel() idx 405 c 168 f CChaosCastle::ClearMonster m_Index : 405 
+[14:59:58] gObjDel() idx 406 c 169 f CChaosCastle::ClearMonster m_Index : 406 
+[14:59:58] gObjDel() idx 407 c 168 f CChaosCastle::ClearMonster m_Index : 407 
+[14:59:58] gObjDel() idx 408 c 169 f CChaosCastle::ClearMonster m_Index : 408 
+[14:59:58] gObjDel() idx 409 c 168 f CChaosCastle::ClearMonster m_Index : 409 
+[14:59:58] gObjDel() idx 410 c 169 f CChaosCastle::ClearMonster m_Index : 410 
+[14:59:58] gObjDel() idx 411 c 168 f CChaosCastle::ClearMonster m_Index : 411 
+[14:59:58] gObjDel() idx 412 c 169 f CChaosCastle::ClearMonster m_Index : 412 
+[14:59:58] gObjDel() idx 413 c 168 f CChaosCastle::ClearMonster m_Index : 413 
+[14:59:58] gObjDel() idx 414 c 169 f CChaosCastle::ClearMonster m_Index : 414 
+[14:59:58] gObjDel() idx 415 c 168 f CChaosCastle::ClearMonster m_Index : 415 
+[14:59:58] gObjDel() idx 416 c 169 f CChaosCastle::ClearMonster m_Index : 416 
+[14:59:58] gObjDel() idx 417 c 168 f CChaosCastle::ClearMonster m_Index : 417 
+[14:59:58] gObjDel() idx 418 c 169 f CChaosCastle::ClearMonster m_Index : 418 
+[14:59:58] gObjDel() idx 419 c 168 f CChaosCastle::ClearMonster m_Index : 419 
+[14:59:58] gObjDel() idx 420 c 169 f CChaosCastle::ClearMonster m_Index : 420 
+[14:59:58] gObjDel() idx 421 c 168 f CChaosCastle::ClearMonster m_Index : 421 
+[14:59:58] gObjDel() idx 422 c 169 f CChaosCastle::ClearMonster m_Index : 422 
+[14:59:58] gObjDel() idx 423 c 168 f CChaosCastle::ClearMonster m_Index : 423 
+[14:59:58] gObjDel() idx 424 c 169 f CChaosCastle::ClearMonster m_Index : 424 
+[14:59:58] gObjDel() idx 425 c 168 f CChaosCastle::ClearMonster m_Index : 425 
+[14:59:58] gObjDel() idx 426 c 169 f CChaosCastle::ClearMonster m_Index : 426 
+[14:59:58] gObjDel() idx 427 c 168 f CChaosCastle::ClearMonster m_Index : 427 
+[14:59:58] gObjDel() idx 428 c 169 f CChaosCastle::ClearMonster m_Index : 428 
+[14:59:58] gObjDel() idx 429 c 168 f CChaosCastle::ClearMonster m_Index : 429 
+[14:59:58] gObjDel() idx 430 c 169 f CChaosCastle::ClearMonster m_Index : 430 
+[14:59:58] gObjDel() idx 431 c 168 f CChaosCastle::ClearMonster m_Index : 431 
+[14:59:58] gObjDel() idx 432 c 169 f CChaosCastle::ClearMonster m_Index : 432 
+[14:59:58] [Chaos Castle] (4) Clear Monster
+[14:59:58] [Chaos Castle] (4) SetState PLAYEND
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item (482)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item (489)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item (505)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item (486)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item (476)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (5) Set Monster Drop Item Count (5)
+[14:59:58] [Chaos Castle] (5) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (5) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 433 c 170 f CChaosCastle::ClearMonster m_Index : 433 
+[14:59:58] gObjDel() idx 434 c 171 f CChaosCastle::ClearMonster m_Index : 434 
+[14:59:58] gObjDel() idx 435 c 170 f CChaosCastle::ClearMonster m_Index : 435 
+[14:59:58] gObjDel() idx 436 c 171 f CChaosCastle::ClearMonster m_Index : 436 
+[14:59:58] gObjDel() idx 437 c 170 f CChaosCastle::ClearMonster m_Index : 437 
+[14:59:58] gObjDel() idx 438 c 171 f CChaosCastle::ClearMonster m_Index : 438 
+[14:59:58] gObjDel() idx 439 c 170 f CChaosCastle::ClearMonster m_Index : 439 
+[14:59:58] gObjDel() idx 440 c 171 f CChaosCastle::ClearMonster m_Index : 440 
+[14:59:58] gObjDel() idx 441 c 170 f CChaosCastle::ClearMonster m_Index : 441 
+[14:59:58] gObjDel() idx 442 c 171 f CChaosCastle::ClearMonster m_Index : 442 
+[14:59:58] gObjDel() idx 443 c 170 f CChaosCastle::ClearMonster m_Index : 443 
+[14:59:58] gObjDel() idx 444 c 171 f CChaosCastle::ClearMonster m_Index : 444 
+[14:59:58] gObjDel() idx 445 c 170 f CChaosCastle::ClearMonster m_Index : 445 
+[14:59:58] gObjDel() idx 446 c 171 f CChaosCastle::ClearMonster m_Index : 446 
+[14:59:58] gObjDel() idx 447 c 170 f CChaosCastle::ClearMonster m_Index : 447 
+[14:59:58] gObjDel() idx 448 c 171 f CChaosCastle::ClearMonster m_Index : 448 
+[14:59:58] gObjDel() idx 449 c 170 f CChaosCastle::ClearMonster m_Index : 449 
+[14:59:58] gObjDel() idx 450 c 171 f CChaosCastle::ClearMonster m_Index : 450 
+[14:59:58] gObjDel() idx 451 c 170 f CChaosCastle::ClearMonster m_Index : 451 
+[14:59:58] gObjDel() idx 452 c 171 f CChaosCastle::ClearMonster m_Index : 452 
+[14:59:58] gObjDel() idx 453 c 170 f CChaosCastle::ClearMonster m_Index : 453 
+[14:59:58] gObjDel() idx 454 c 171 f CChaosCastle::ClearMonster m_Index : 454 
+[14:59:58] gObjDel() idx 455 c 170 f CChaosCastle::ClearMonster m_Index : 455 
+[14:59:58] gObjDel() idx 456 c 171 f CChaosCastle::ClearMonster m_Index : 456 
+[14:59:58] gObjDel() idx 457 c 170 f CChaosCastle::ClearMonster m_Index : 457 
+[14:59:58] gObjDel() idx 458 c 171 f CChaosCastle::ClearMonster m_Index : 458 
+[14:59:58] gObjDel() idx 459 c 170 f CChaosCastle::ClearMonster m_Index : 459 
+[14:59:58] gObjDel() idx 460 c 171 f CChaosCastle::ClearMonster m_Index : 460 
+[14:59:58] gObjDel() idx 461 c 170 f CChaosCastle::ClearMonster m_Index : 461 
+[14:59:58] gObjDel() idx 462 c 171 f CChaosCastle::ClearMonster m_Index : 462 
+[14:59:58] gObjDel() idx 463 c 170 f CChaosCastle::ClearMonster m_Index : 463 
+[14:59:58] gObjDel() idx 464 c 171 f CChaosCastle::ClearMonster m_Index : 464 
+[14:59:58] gObjDel() idx 465 c 170 f CChaosCastle::ClearMonster m_Index : 465 
+[14:59:58] gObjDel() idx 466 c 170 f CChaosCastle::ClearMonster m_Index : 466 
+[14:59:58] gObjDel() idx 467 c 171 f CChaosCastle::ClearMonster m_Index : 467 
+[14:59:58] gObjDel() idx 468 c 170 f CChaosCastle::ClearMonster m_Index : 468 
+[14:59:58] gObjDel() idx 469 c 171 f CChaosCastle::ClearMonster m_Index : 469 
+[14:59:58] gObjDel() idx 470 c 170 f CChaosCastle::ClearMonster m_Index : 470 
+[14:59:58] gObjDel() idx 471 c 171 f CChaosCastle::ClearMonster m_Index : 471 
+[14:59:58] gObjDel() idx 472 c 170 f CChaosCastle::ClearMonster m_Index : 472 
+[14:59:58] gObjDel() idx 473 c 171 f CChaosCastle::ClearMonster m_Index : 473 
+[14:59:58] gObjDel() idx 474 c 170 f CChaosCastle::ClearMonster m_Index : 474 
+[14:59:58] gObjDel() idx 475 c 171 f CChaosCastle::ClearMonster m_Index : 475 
+[14:59:58] gObjDel() idx 476 c 170 f CChaosCastle::ClearMonster m_Index : 476 
+[14:59:58] gObjDel() idx 477 c 171 f CChaosCastle::ClearMonster m_Index : 477 
+[14:59:58] gObjDel() idx 478 c 170 f CChaosCastle::ClearMonster m_Index : 478 
+[14:59:58] gObjDel() idx 479 c 171 f CChaosCastle::ClearMonster m_Index : 479 
+[14:59:58] gObjDel() idx 480 c 170 f CChaosCastle::ClearMonster m_Index : 480 
+[14:59:58] gObjDel() idx 481 c 171 f CChaosCastle::ClearMonster m_Index : 481 
+[14:59:58] gObjDel() idx 482 c 170 f CChaosCastle::ClearMonster m_Index : 482 
+[14:59:58] gObjDel() idx 483 c 171 f CChaosCastle::ClearMonster m_Index : 483 
+[14:59:58] gObjDel() idx 484 c 170 f CChaosCastle::ClearMonster m_Index : 484 
+[14:59:58] gObjDel() idx 485 c 171 f CChaosCastle::ClearMonster m_Index : 485 
+[14:59:58] gObjDel() idx 486 c 170 f CChaosCastle::ClearMonster m_Index : 486 
+[14:59:58] gObjDel() idx 487 c 171 f CChaosCastle::ClearMonster m_Index : 487 
+[14:59:58] gObjDel() idx 488 c 170 f CChaosCastle::ClearMonster m_Index : 488 
+[14:59:58] gObjDel() idx 489 c 171 f CChaosCastle::ClearMonster m_Index : 489 
+[14:59:58] gObjDel() idx 490 c 170 f CChaosCastle::ClearMonster m_Index : 490 
+[14:59:58] gObjDel() idx 491 c 171 f CChaosCastle::ClearMonster m_Index : 491 
+[14:59:58] gObjDel() idx 492 c 170 f CChaosCastle::ClearMonster m_Index : 492 
+[14:59:58] gObjDel() idx 493 c 171 f CChaosCastle::ClearMonster m_Index : 493 
+[14:59:58] gObjDel() idx 494 c 170 f CChaosCastle::ClearMonster m_Index : 494 
+[14:59:58] gObjDel() idx 495 c 171 f CChaosCastle::ClearMonster m_Index : 495 
+[14:59:58] gObjDel() idx 496 c 170 f CChaosCastle::ClearMonster m_Index : 496 
+[14:59:58] gObjDel() idx 497 c 171 f CChaosCastle::ClearMonster m_Index : 497 
+[14:59:58] gObjDel() idx 498 c 170 f CChaosCastle::ClearMonster m_Index : 498 
+[14:59:58] gObjDel() idx 499 c 171 f CChaosCastle::ClearMonster m_Index : 499 
+[14:59:58] gObjDel() idx 500 c 170 f CChaosCastle::ClearMonster m_Index : 500 
+[14:59:58] gObjDel() idx 501 c 171 f CChaosCastle::ClearMonster m_Index : 501 
+[14:59:58] gObjDel() idx 502 c 170 f CChaosCastle::ClearMonster m_Index : 502 
+[14:59:58] gObjDel() idx 503 c 171 f CChaosCastle::ClearMonster m_Index : 503 
+[14:59:58] gObjDel() idx 504 c 170 f CChaosCastle::ClearMonster m_Index : 504 
+[14:59:58] gObjDel() idx 505 c 171 f CChaosCastle::ClearMonster m_Index : 505 
+[14:59:58] gObjDel() idx 506 c 170 f CChaosCastle::ClearMonster m_Index : 506 
+[14:59:58] gObjDel() idx 507 c 171 f CChaosCastle::ClearMonster m_Index : 507 
+[14:59:58] gObjDel() idx 508 c 170 f CChaosCastle::ClearMonster m_Index : 508 
+[14:59:58] gObjDel() idx 509 c 171 f CChaosCastle::ClearMonster m_Index : 509 
+[14:59:58] gObjDel() idx 510 c 170 f CChaosCastle::ClearMonster m_Index : 510 
+[14:59:58] gObjDel() idx 511 c 171 f CChaosCastle::ClearMonster m_Index : 511 
+[14:59:58] gObjDel() idx 512 c 170 f CChaosCastle::ClearMonster m_Index : 512 
+[14:59:58] gObjDel() idx 513 c 171 f CChaosCastle::ClearMonster m_Index : 513 
+[14:59:58] gObjDel() idx 514 c 170 f CChaosCastle::ClearMonster m_Index : 514 
+[14:59:58] gObjDel() idx 515 c 171 f CChaosCastle::ClearMonster m_Index : 515 
+[14:59:58] gObjDel() idx 516 c 170 f CChaosCastle::ClearMonster m_Index : 516 
+[14:59:58] gObjDel() idx 517 c 171 f CChaosCastle::ClearMonster m_Index : 517 
+[14:59:58] gObjDel() idx 518 c 170 f CChaosCastle::ClearMonster m_Index : 518 
+[14:59:58] gObjDel() idx 519 c 171 f CChaosCastle::ClearMonster m_Index : 519 
+[14:59:58] gObjDel() idx 520 c 170 f CChaosCastle::ClearMonster m_Index : 520 
+[14:59:58] gObjDel() idx 521 c 171 f CChaosCastle::ClearMonster m_Index : 521 
+[14:59:58] gObjDel() idx 522 c 170 f CChaosCastle::ClearMonster m_Index : 522 
+[14:59:58] gObjDel() idx 523 c 171 f CChaosCastle::ClearMonster m_Index : 523 
+[14:59:58] gObjDel() idx 524 c 170 f CChaosCastle::ClearMonster m_Index : 524 
+[14:59:58] gObjDel() idx 525 c 171 f CChaosCastle::ClearMonster m_Index : 525 
+[14:59:58] gObjDel() idx 526 c 170 f CChaosCastle::ClearMonster m_Index : 526 
+[14:59:58] gObjDel() idx 527 c 171 f CChaosCastle::ClearMonster m_Index : 527 
+[14:59:58] gObjDel() idx 528 c 170 f CChaosCastle::ClearMonster m_Index : 528 
+[14:59:58] gObjDel() idx 529 c 171 f CChaosCastle::ClearMonster m_Index : 529 
+[14:59:58] gObjDel() idx 530 c 170 f CChaosCastle::ClearMonster m_Index : 530 
+[14:59:58] gObjDel() idx 531 c 171 f CChaosCastle::ClearMonster m_Index : 531 
+[14:59:58] [Chaos Castle] (5) Clear Monster
+[14:59:58] [Chaos Castle] (5) SetState PLAYEND
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item (590)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item (589)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item (560)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item (576)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item (620)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (6) Set Monster Drop Item Count (5)
+[14:59:58] [Chaos Castle] (6) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (6) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 532 c 172 f CChaosCastle::ClearMonster m_Index : 532 
+[14:59:58] gObjDel() idx 533 c 173 f CChaosCastle::ClearMonster m_Index : 533 
+[14:59:58] gObjDel() idx 534 c 172 f CChaosCastle::ClearMonster m_Index : 534 
+[14:59:58] gObjDel() idx 535 c 173 f CChaosCastle::ClearMonster m_Index : 535 
+[14:59:58] gObjDel() idx 536 c 172 f CChaosCastle::ClearMonster m_Index : 536 
+[14:59:58] gObjDel() idx 537 c 173 f CChaosCastle::ClearMonster m_Index : 537 
+[14:59:58] gObjDel() idx 538 c 172 f CChaosCastle::ClearMonster m_Index : 538 
+[14:59:58] gObjDel() idx 539 c 173 f CChaosCastle::ClearMonster m_Index : 539 
+[14:59:58] gObjDel() idx 540 c 172 f CChaosCastle::ClearMonster m_Index : 540 
+[14:59:58] gObjDel() idx 541 c 173 f CChaosCastle::ClearMonster m_Index : 541 
+[14:59:58] gObjDel() idx 542 c 172 f CChaosCastle::ClearMonster m_Index : 542 
+[14:59:58] gObjDel() idx 543 c 173 f CChaosCastle::ClearMonster m_Index : 543 
+[14:59:58] gObjDel() idx 544 c 172 f CChaosCastle::ClearMonster m_Index : 544 
+[14:59:58] gObjDel() idx 545 c 173 f CChaosCastle::ClearMonster m_Index : 545 
+[14:59:58] gObjDel() idx 546 c 172 f CChaosCastle::ClearMonster m_Index : 546 
+[14:59:58] gObjDel() idx 547 c 173 f CChaosCastle::ClearMonster m_Index : 547 
+[14:59:58] gObjDel() idx 548 c 172 f CChaosCastle::ClearMonster m_Index : 548 
+[14:59:58] gObjDel() idx 549 c 173 f CChaosCastle::ClearMonster m_Index : 549 
+[14:59:58] gObjDel() idx 550 c 172 f CChaosCastle::ClearMonster m_Index : 550 
+[14:59:58] gObjDel() idx 551 c 173 f CChaosCastle::ClearMonster m_Index : 551 
+[14:59:58] gObjDel() idx 552 c 172 f CChaosCastle::ClearMonster m_Index : 552 
+[14:59:58] gObjDel() idx 553 c 173 f CChaosCastle::ClearMonster m_Index : 553 
+[14:59:58] gObjDel() idx 554 c 172 f CChaosCastle::ClearMonster m_Index : 554 
+[14:59:58] gObjDel() idx 555 c 173 f CChaosCastle::ClearMonster m_Index : 555 
+[14:59:58] gObjDel() idx 556 c 172 f CChaosCastle::ClearMonster m_Index : 556 
+[14:59:58] gObjDel() idx 557 c 173 f CChaosCastle::ClearMonster m_Index : 557 
+[14:59:58] gObjDel() idx 558 c 172 f CChaosCastle::ClearMonster m_Index : 558 
+[14:59:58] gObjDel() idx 559 c 173 f CChaosCastle::ClearMonster m_Index : 559 
+[14:59:58] gObjDel() idx 560 c 172 f CChaosCastle::ClearMonster m_Index : 560 
+[14:59:58] gObjDel() idx 561 c 173 f CChaosCastle::ClearMonster m_Index : 561 
+[14:59:58] gObjDel() idx 562 c 172 f CChaosCastle::ClearMonster m_Index : 562 
+[14:59:58] gObjDel() idx 563 c 173 f CChaosCastle::ClearMonster m_Index : 563 
+[14:59:58] gObjDel() idx 564 c 172 f CChaosCastle::ClearMonster m_Index : 564 
+[14:59:58] gObjDel() idx 565 c 172 f CChaosCastle::ClearMonster m_Index : 565 
+[14:59:58] gObjDel() idx 566 c 173 f CChaosCastle::ClearMonster m_Index : 566 
+[14:59:58] gObjDel() idx 567 c 172 f CChaosCastle::ClearMonster m_Index : 567 
+[14:59:58] gObjDel() idx 568 c 173 f CChaosCastle::ClearMonster m_Index : 568 
+[14:59:58] gObjDel() idx 569 c 172 f CChaosCastle::ClearMonster m_Index : 569 
+[14:59:58] gObjDel() idx 570 c 173 f CChaosCastle::ClearMonster m_Index : 570 
+[14:59:58] gObjDel() idx 571 c 172 f CChaosCastle::ClearMonster m_Index : 571 
+[14:59:58] gObjDel() idx 572 c 173 f CChaosCastle::ClearMonster m_Index : 572 
+[14:59:58] gObjDel() idx 573 c 172 f CChaosCastle::ClearMonster m_Index : 573 
+[14:59:58] gObjDel() idx 574 c 173 f CChaosCastle::ClearMonster m_Index : 574 
+[14:59:58] gObjDel() idx 575 c 172 f CChaosCastle::ClearMonster m_Index : 575 
+[14:59:58] gObjDel() idx 576 c 173 f CChaosCastle::ClearMonster m_Index : 576 
+[14:59:58] gObjDel() idx 577 c 172 f CChaosCastle::ClearMonster m_Index : 577 
+[14:59:58] gObjDel() idx 578 c 173 f CChaosCastle::ClearMonster m_Index : 578 
+[14:59:58] gObjDel() idx 579 c 172 f CChaosCastle::ClearMonster m_Index : 579 
+[14:59:58] gObjDel() idx 580 c 173 f CChaosCastle::ClearMonster m_Index : 580 
+[14:59:58] gObjDel() idx 581 c 172 f CChaosCastle::ClearMonster m_Index : 581 
+[14:59:58] gObjDel() idx 582 c 173 f CChaosCastle::ClearMonster m_Index : 582 
+[14:59:58] gObjDel() idx 583 c 172 f CChaosCastle::ClearMonster m_Index : 583 
+[14:59:58] gObjDel() idx 584 c 173 f CChaosCastle::ClearMonster m_Index : 584 
+[14:59:58] gObjDel() idx 585 c 172 f CChaosCastle::ClearMonster m_Index : 585 
+[14:59:58] gObjDel() idx 586 c 173 f CChaosCastle::ClearMonster m_Index : 586 
+[14:59:58] gObjDel() idx 587 c 172 f CChaosCastle::ClearMonster m_Index : 587 
+[14:59:58] gObjDel() idx 588 c 173 f CChaosCastle::ClearMonster m_Index : 588 
+[14:59:58] gObjDel() idx 589 c 172 f CChaosCastle::ClearMonster m_Index : 589 
+[14:59:58] gObjDel() idx 590 c 173 f CChaosCastle::ClearMonster m_Index : 590 
+[14:59:58] gObjDel() idx 591 c 172 f CChaosCastle::ClearMonster m_Index : 591 
+[14:59:58] gObjDel() idx 592 c 173 f CChaosCastle::ClearMonster m_Index : 592 
+[14:59:58] gObjDel() idx 593 c 172 f CChaosCastle::ClearMonster m_Index : 593 
+[14:59:58] gObjDel() idx 594 c 173 f CChaosCastle::ClearMonster m_Index : 594 
+[14:59:58] gObjDel() idx 595 c 172 f CChaosCastle::ClearMonster m_Index : 595 
+[14:59:58] gObjDel() idx 596 c 173 f CChaosCastle::ClearMonster m_Index : 596 
+[14:59:58] gObjDel() idx 597 c 172 f CChaosCastle::ClearMonster m_Index : 597 
+[14:59:58] gObjDel() idx 598 c 173 f CChaosCastle::ClearMonster m_Index : 598 
+[14:59:58] gObjDel() idx 599 c 172 f CChaosCastle::ClearMonster m_Index : 599 
+[14:59:58] gObjDel() idx 600 c 173 f CChaosCastle::ClearMonster m_Index : 600 
+[14:59:58] gObjDel() idx 601 c 172 f CChaosCastle::ClearMonster m_Index : 601 
+[14:59:58] gObjDel() idx 602 c 173 f CChaosCastle::ClearMonster m_Index : 602 
+[14:59:58] gObjDel() idx 603 c 172 f CChaosCastle::ClearMonster m_Index : 603 
+[14:59:58] gObjDel() idx 604 c 173 f CChaosCastle::ClearMonster m_Index : 604 
+[14:59:58] gObjDel() idx 605 c 172 f CChaosCastle::ClearMonster m_Index : 605 
+[14:59:58] gObjDel() idx 606 c 173 f CChaosCastle::ClearMonster m_Index : 606 
+[14:59:58] gObjDel() idx 607 c 172 f CChaosCastle::ClearMonster m_Index : 607 
+[14:59:58] gObjDel() idx 608 c 173 f CChaosCastle::ClearMonster m_Index : 608 
+[14:59:58] gObjDel() idx 609 c 172 f CChaosCastle::ClearMonster m_Index : 609 
+[14:59:58] gObjDel() idx 610 c 173 f CChaosCastle::ClearMonster m_Index : 610 
+[14:59:58] gObjDel() idx 611 c 172 f CChaosCastle::ClearMonster m_Index : 611 
+[14:59:58] gObjDel() idx 612 c 173 f CChaosCastle::ClearMonster m_Index : 612 
+[14:59:58] gObjDel() idx 613 c 172 f CChaosCastle::ClearMonster m_Index : 613 
+[14:59:58] gObjDel() idx 614 c 173 f CChaosCastle::ClearMonster m_Index : 614 
+[14:59:58] gObjDel() idx 615 c 172 f CChaosCastle::ClearMonster m_Index : 615 
+[14:59:58] gObjDel() idx 616 c 173 f CChaosCastle::ClearMonster m_Index : 616 
+[14:59:58] gObjDel() idx 617 c 172 f CChaosCastle::ClearMonster m_Index : 617 
+[14:59:58] gObjDel() idx 618 c 173 f CChaosCastle::ClearMonster m_Index : 618 
+[14:59:58] gObjDel() idx 619 c 172 f CChaosCastle::ClearMonster m_Index : 619 
+[14:59:58] gObjDel() idx 620 c 173 f CChaosCastle::ClearMonster m_Index : 620 
+[14:59:58] gObjDel() idx 621 c 172 f CChaosCastle::ClearMonster m_Index : 621 
+[14:59:58] gObjDel() idx 622 c 173 f CChaosCastle::ClearMonster m_Index : 622 
+[14:59:58] gObjDel() idx 623 c 172 f CChaosCastle::ClearMonster m_Index : 623 
+[14:59:58] gObjDel() idx 624 c 173 f CChaosCastle::ClearMonster m_Index : 624 
+[14:59:58] gObjDel() idx 625 c 172 f CChaosCastle::ClearMonster m_Index : 625 
+[14:59:58] gObjDel() idx 626 c 173 f CChaosCastle::ClearMonster m_Index : 626 
+[14:59:58] gObjDel() idx 627 c 172 f CChaosCastle::ClearMonster m_Index : 627 
+[14:59:58] gObjDel() idx 628 c 173 f CChaosCastle::ClearMonster m_Index : 628 
+[14:59:58] gObjDel() idx 629 c 172 f CChaosCastle::ClearMonster m_Index : 629 
+[14:59:58] gObjDel() idx 630 c 173 f CChaosCastle::ClearMonster m_Index : 630 
+[14:59:58] [Chaos Castle] (6) Clear Monster
+[14:59:58] [Chaos Castle] (6) SetState PLAYEND
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (700)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (698)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (702)(Item:Jewel of Bless)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (658)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (664)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item (652)(Item:Jewel of Soul)
+[14:59:58] [Chaos Castle] (7) Set Monster Drop Item Count (6)
+[14:59:58] [Chaos Castle] (7) Chaos Castle Quest Start (UserCount:0)
+[14:59:58] [Chaos Castle] (7) Has No Winner : Monster Left (99)
+[14:59:58] gObjDel() idx 631 c 426 f CChaosCastle::ClearMonster m_Index : 631 
+[14:59:58] gObjDel() idx 632 c 427 f CChaosCastle::ClearMonster m_Index : 632 
+[14:59:58] gObjDel() idx 633 c 426 f CChaosCastle::ClearMonster m_Index : 633 
+[14:59:58] gObjDel() idx 634 c 427 f CChaosCastle::ClearMonster m_Index : 634 
+[14:59:58] gObjDel() idx 635 c 426 f CChaosCastle::ClearMonster m_Index : 635 
+[14:59:58] gObjDel() idx 636 c 427 f CChaosCastle::ClearMonster m_Index : 636 
+[14:59:58] gObjDel() idx 637 c 426 f CChaosCastle::ClearMonster m_Index : 637 
+[14:59:58] gObjDel() idx 638 c 427 f CChaosCastle::ClearMonster m_Index : 638 
+[14:59:58] gObjDel() idx 639 c 426 f CChaosCastle::ClearMonster m_Index : 639 
+[14:59:58] gObjDel() idx 640 c 427 f CChaosCastle::ClearMonster m_Index : 640 
+[14:59:58] gObjDel() idx 641 c 426 f CChaosCastle::ClearMonster m_Index : 641 
+[14:59:58] gObjDel() idx 642 c 427 f CChaosCastle::ClearMonster m_Index : 642 
+[14:59:58] gObjDel() idx 643 c 426 f CChaosCastle::ClearMonster m_Index : 643 
+[14:59:58] gObjDel() idx 644 c 427 f CChaosCastle::ClearMonster m_Index : 644 
+[14:59:58] gObjDel() idx 645 c 426 f CChaosCastle::ClearMonster m_Index : 645 
+[14:59:58] gObjDel() idx 646 c 427 f CChaosCastle::ClearMonster m_Index : 646 
+[14:59:58] gObjDel() idx 647 c 426 f CChaosCastle::ClearMonster m_Index : 647 
+[14:59:58] gObjDel() idx 648 c 427 f CChaosCastle::ClearMonster m_Index : 648 
+[14:59:58] gObjDel() idx 649 c 426 f CChaosCastle::ClearMonster m_Index : 649 
+[14:59:58] gObjDel() idx 650 c 427 f CChaosCastle::ClearMonster m_Index : 650 
+[14:59:58] gObjDel() idx 651 c 426 f CChaosCastle::ClearMonster m_Index : 651 
+[14:59:58] gObjDel() idx 652 c 427 f CChaosCastle::ClearMonster m_Index : 652 
+[14:59:58] gObjDel() idx 653 c 426 f CChaosCastle::ClearMonster m_Index : 653 
+[14:59:58] gObjDel() idx 654 c 427 f CChaosCastle::ClearMonster m_Index : 654 
+[14:59:58] gObjDel() idx 655 c 426 f CChaosCastle::ClearMonster m_Index : 655 
+[14:59:58] gObjDel() idx 656 c 427 f CChaosCastle::ClearMonster m_Index : 656 
+[14:59:58] gObjDel() idx 657 c 426 f CChaosCastle::ClearMonster m_Index : 657 
+[14:59:58] gObjDel() idx 658 c 427 f CChaosCastle::ClearMonster m_Index : 658 
+[14:59:58] gObjDel() idx 659 c 426 f CChaosCastle::ClearMonster m_Index : 659 
+[14:59:58] gObjDel() idx 660 c 427 f CChaosCastle::ClearMonster m_Index : 660 
+[14:59:58] gObjDel() idx 661 c 426 f CChaosCastle::ClearMonster m_Index : 661 
+[14:59:58] gObjDel() idx 662 c 427 f CChaosCastle::ClearMonster m_Index : 662 
+[14:59:58] gObjDel() idx 663 c 426 f CChaosCastle::ClearMonster m_Index : 663 
+[14:59:58] gObjDel() idx 664 c 426 f CChaosCastle::ClearMonster m_Index : 664 
+[14:59:58] gObjDel() idx 665 c 427 f CChaosCastle::ClearMonster m_Index : 665 
+[14:59:58] gObjDel() idx 666 c 426 f CChaosCastle::ClearMonster m_Index : 666 
+[14:59:58] gObjDel() idx 667 c 427 f CChaosCastle::ClearMonster m_Index : 667 
+[14:59:58] gObjDel() idx 668 c 426 f CChaosCastle::ClearMonster m_Index : 668 
+[14:59:58] gObjDel() idx 669 c 427 f CChaosCastle::ClearMonster m_Index : 669 
+[14:59:58] gObjDel() idx 670 c 426 f CChaosCastle::ClearMonster m_Index : 670 
+[14:59:58] gObjDel() idx 671 c 427 f CChaosCastle::ClearMonster m_Index : 671 
+[14:59:58] gObjDel() idx 672 c 426 f CChaosCastle::ClearMonster m_Index : 672 
+[14:59:58] gObjDel() idx 673 c 427 f CChaosCastle::ClearMonster m_Index : 673 
+[14:59:58] gObjDel() idx 674 c 426 f CChaosCastle::ClearMonster m_Index : 674 
+[14:59:58] gObjDel() idx 675 c 427 f CChaosCastle::ClearMonster m_Index : 675 
+[14:59:58] gObjDel() idx 676 c 426 f CChaosCastle::ClearMonster m_Index : 676 
+[14:59:58] gObjDel() idx 677 c 427 f CChaosCastle::ClearMonster m_Index : 677 
+[14:59:58] gObjDel() idx 678 c 426 f CChaosCastle::ClearMonster m_Index : 678 
+[14:59:58] gObjDel() idx 679 c 427 f CChaosCastle::ClearMonster m_Index : 679 
+[14:59:58] gObjDel() idx 680 c 426 f CChaosCastle::ClearMonster m_Index : 680 
+[14:59:58] gObjDel() idx 681 c 427 f CChaosCastle::ClearMonster m_Index : 681 
+[14:59:58] gObjDel() idx 682 c 426 f CChaosCastle::ClearMonster m_Index : 682 
+[14:59:58] gObjDel() idx 683 c 427 f CChaosCastle::ClearMonster m_Index : 683 
+[14:59:58] gObjDel() idx 684 c 426 f CChaosCastle::ClearMonster m_Index : 684 
+[14:59:58] gObjDel() idx 685 c 427 f CChaosCastle::ClearMonster m_Index : 685 
+[14:59:58] gObjDel() idx 686 c 426 f CChaosCastle::ClearMonster m_Index : 686 
+[14:59:58] gObjDel() idx 687 c 427 f CChaosCastle::ClearMonster m_Index : 687 
+[14:59:58] gObjDel() idx 688 c 426 f CChaosCastle::ClearMonster m_Index : 688 
+[14:59:58] gObjDel() idx 689 c 427 f CChaosCastle::ClearMonster m_Index : 689 
+[14:59:58] gObjDel() idx 690 c 426 f CChaosCastle::ClearMonster m_Index : 690 
+[14:59:58] gObjDel() idx 691 c 427 f CChaosCastle::ClearMonster m_Index : 691 
+[14:59:58] gObjDel() idx 692 c 426 f CChaosCastle::ClearMonster m_Index : 692 
+[14:59:58] gObjDel() idx 693 c 427 f CChaosCastle::ClearMonster m_Index : 693 
+[14:59:58] gObjDel() idx 694 c 426 f CChaosCastle::ClearMonster m_Index : 694 
+[14:59:58] gObjDel() idx 695 c 427 f CChaosCastle::ClearMonster m_Index : 695 
+[14:59:58] gObjDel() idx 696 c 426 f CChaosCastle::ClearMonster m_Index : 696 
+[14:59:58] gObjDel() idx 697 c 427 f CChaosCastle::ClearMonster m_Index : 697 
+[14:59:58] gObjDel() idx 698 c 426 f CChaosCastle::ClearMonster m_Index : 698 
+[14:59:58] gObjDel() idx 699 c 427 f CChaosCastle::ClearMonster m_Index : 699 
+[14:59:58] gObjDel() idx 700 c 426 f CChaosCastle::ClearMonster m_Index : 700 
+[14:59:58] gObjDel() idx 701 c 427 f CChaosCastle::ClearMonster m_Index : 701 
+[14:59:58] gObjDel() idx 702 c 426 f CChaosCastle::ClearMonster m_Index : 702 
+[14:59:58] gObjDel() idx 703 c 427 f CChaosCastle::ClearMonster m_Index : 703 
+[14:59:58] gObjDel() idx 704 c 426 f CChaosCastle::ClearMonster m_Index : 704 
+[14:59:58] gObjDel() idx 705 c 427 f CChaosCastle::ClearMonster m_Index : 705 
+[14:59:58] gObjDel() idx 706 c 426 f CChaosCastle::ClearMonster m_Index : 706 
+[14:59:58] gObjDel() idx 707 c 427 f CChaosCastle::ClearMonster m_Index : 707 
+[14:59:58] gObjDel() idx 708 c 426 f CChaosCastle::ClearMonster m_Index : 708 
+[14:59:58] gObjDel() idx 709 c 427 f CChaosCastle::ClearMonster m_Index : 709 
+[14:59:58] gObjDel() idx 710 c 426 f CChaosCastle::ClearMonster m_Index : 710 
+[14:59:58] gObjDel() idx 711 c 427 f CChaosCastle::ClearMonster m_Index : 711 
+[14:59:58] gObjDel() idx 712 c 426 f CChaosCastle::ClearMonster m_Index : 712 
+[14:59:58] gObjDel() idx 713 c 427 f CChaosCastle::ClearMonster m_Index : 713 
+[14:59:58] gObjDel() idx 714 c 426 f CChaosCastle::ClearMonster m_Index : 714 
+[14:59:58] gObjDel() idx 715 c 427 f CChaosCastle::ClearMonster m_Index : 715 
+[14:59:58] gObjDel() idx 716 c 426 f CChaosCastle::ClearMonster m_Index : 716 
+[14:59:58] gObjDel() idx 717 c 427 f CChaosCastle::ClearMonster m_Index : 717 
+[14:59:58] gObjDel() idx 718 c 426 f CChaosCastle::ClearMonster m_Index : 718 
+[14:59:58] gObjDel() idx 719 c 427 f CChaosCastle::ClearMonster m_Index : 719 
+[14:59:58] gObjDel() idx 720 c 426 f CChaosCastle::ClearMonster m_Index : 720 
+[14:59:58] gObjDel() idx 721 c 427 f CChaosCastle::ClearMonster m_Index : 721 
+[14:59:58] gObjDel() idx 722 c 426 f CChaosCastle::ClearMonster m_Index : 722 
+[14:59:58] gObjDel() idx 723 c 427 f CChaosCastle::ClearMonster m_Index : 723 
+[14:59:58] gObjDel() idx 724 c 426 f CChaosCastle::ClearMonster m_Index : 724 
+[14:59:58] gObjDel() idx 725 c 427 f CChaosCastle::ClearMonster m_Index : 725 
+[14:59:58] gObjDel() idx 726 c 426 f CChaosCastle::ClearMonster m_Index : 726 
+[14:59:58] gObjDel() idx 727 c 427 f CChaosCastle::ClearMonster m_Index : 727 
+[14:59:58] gObjDel() idx 728 c 426 f CChaosCastle::ClearMonster m_Index : 728 
+[14:59:58] gObjDel() idx 729 c 427 f CChaosCastle::ClearMonster m_Index : 729 
+[14:59:58] [Chaos Castle] (7) Clear Monster
+[14:59:58] [Chaos Castle] (7) SetState PLAYEND
+[15:00:00] [Event Management] Found Event: (0) 15 00 (state=0)
+[15:00:00] [Event Management] [Start] Red Dragon Event
+[15:00:04] [Red Dragon] Event Start
+[15:00:57] [Chaos Castle] (1) Clear Monster
+[15:00:57] [Chaos Castle] (1) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:57] [Chaos Castle] (1) SetState CLOSED
+[15:00:58] [Chaos Castle] (2) Clear Monster
+[15:00:58] [Chaos Castle] (2) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (2) SetState CLOSED
+[15:00:58] [Chaos Castle] (3) Clear Monster
+[15:00:58] [Chaos Castle] (3) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (3) SetState CLOSED
+[15:00:58] [Chaos Castle] (4) Clear Monster
+[15:00:58] [Chaos Castle] (4) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (4) SetState CLOSED
+[15:00:58] [Chaos Castle] (5) Clear Monster
+[15:00:58] [Chaos Castle] (5) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (5) SetState CLOSED
+[15:00:58] [Chaos Castle] (6) Clear Monster
+[15:00:58] [Chaos Castle] (6) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (6) SetState CLOSED
+[15:00:58] [Chaos Castle] (7) Clear Monster
+[15:00:58] [Chaos Castle] (7) Sync Start Time. [119] min remain (START HOUR:17, MIN:0)
+[15:00:58] [Chaos Castle] (7) SetState CLOSED
+[15:05:05] [Red Dragon] Event End
+[15:30:00] [Event Management] Found Event: (3) 15 30 (state=0)
+[15:30:00] [Event Management] [Start] RingAttack Event!
+[15:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:143, Y:86
+[15:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:213, Y:120
+[15:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:177, Y:67
+[16:01:00] [Bonus Event] Event is over
+[16:30:00] [Event Management] Found Event: (2) 16 30 (state=0)
+[16:30:00] [Event Management] [Start] Eledorado Event!
+[16:55:01] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:1 
+[16:59:31] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:2 
+[17:00:00] [Chaos Castle] (2) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (2) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (2) Clear Monster
+[17:00:00] [Chaos Castle] (2) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (2) SetState CLOSED
+[17:00:00] [Chaos Castle] (3) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (3) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (3) Clear Monster
+[17:00:00] [Chaos Castle] (3) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (3) SetState CLOSED
+[17:00:00] [Chaos Castle] (4) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (4) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (4) Clear Monster
+[17:00:00] [Chaos Castle] (4) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (4) SetState CLOSED
+[17:00:00] [Chaos Castle] (5) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (5) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (5) Clear Monster
+[17:00:00] [Chaos Castle] (5) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (5) SetState CLOSED
+[17:00:00] [Chaos Castle] (6) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (6) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (6) Clear Monster
+[17:00:00] [Chaos Castle] (6) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (6) SetState CLOSED
+[17:00:00] [Chaos Castle] (7) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:00] [Chaos Castle] (7) Failed to Start Chaos Castle : Lack of User
+[17:00:00] [Chaos Castle] (7) Clear Monster
+[17:00:00] [Chaos Castle] (7) Sync Start Time. [120] min remain (START HOUR:19, MIN:0)
+[17:00:00] [Chaos Castle] (7) SetState CLOSED
+[17:00:01] [Chaos Castle] (1) GetCurPlayUser() FAILED (UserCount:0)
+[17:00:01] [Chaos Castle] (1) Failed to Start Chaos Castle : Lack of User
+[17:00:01] [Chaos Castle] (1) Clear Monster
+[17:00:01] [Chaos Castle] (1) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (1) SetState CLOSED
+[17:00:01] [Chaos Castle] (2) Clear Monster
+[17:00:01] [Chaos Castle] (2) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (2) SetState CLOSED
+[17:00:01] [Chaos Castle] (2) Chaos Castle Quest Closed - No User
+[17:00:01] [Chaos Castle] (3) Clear Monster
+[17:00:01] [Chaos Castle] (3) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (3) SetState CLOSED
+[17:00:01] [Chaos Castle] (3) Chaos Castle Quest Closed - No User
+[17:00:01] [Chaos Castle] (4) Clear Monster
+[17:00:01] [Chaos Castle] (4) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (4) SetState CLOSED
+[17:00:01] [Chaos Castle] (4) Chaos Castle Quest Closed - No User
+[17:00:01] [Chaos Castle] (5) Clear Monster
+[17:00:01] [Chaos Castle] (5) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (5) SetState CLOSED
+[17:00:01] [Chaos Castle] (5) Chaos Castle Quest Closed - No User
+[17:00:01] [Chaos Castle] (6) Clear Monster
+[17:00:01] [Chaos Castle] (6) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (6) SetState CLOSED
+[17:00:01] [Chaos Castle] (6) Chaos Castle Quest Closed - No User
+[17:00:01] [Chaos Castle] (7) Clear Monster
+[17:00:01] [Chaos Castle] (7) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:01] [Chaos Castle] (7) SetState CLOSED
+[17:00:01] [Chaos Castle] (7) Chaos Castle Quest Closed - No User
+[17:00:02] [Chaos Castle] (1) Clear Monster
+[17:00:02] [Chaos Castle] (1) Sync Start Time. [119] min remain (START HOUR:19, MIN:0)
+[17:00:02] [Chaos Castle] (1) SetState CLOSED
+[17:00:02] [Chaos Castle] (1) Chaos Castle Quest Closed - No User
+[18:08:00] [Event Management] Found Event: (2) 18 08 (state=0)
+[18:08:00] [Event Management] [Start] Eledorado Event!
+[18:16:46] Whole connection closed

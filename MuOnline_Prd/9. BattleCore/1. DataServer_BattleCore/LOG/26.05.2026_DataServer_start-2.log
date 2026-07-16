@@ -1,0 +1,28 @@
+[10:49:54] Initializing...
+[10:49:54] eDataServer version: 21.1.2.11 S Compiled at: Apr 17 2026 11:28:08
+[10:49:54] IP Address 147.135.23.66 valid, no resolving required
+[10:49:54] Password Encrypt Type: None
+[10:49:54] Current Global Connections Limit (IP) per ServerGroup, General: 10 OffPlayer: (5)
+[10:49:54] Current Global Connections Limit (HWID) per ServerGroup, General: 10 OffPlayer: (5)
+[10:49:54] JoinServer configuration load OK
+[10:49:54] Character Delete Max Level: 40
+[10:49:54] Character Create Limit Per Day: 4
+[10:49:54] DataServer configuration load OK
+[10:49:54] ExDataServer configuration load OK
+[10:49:54] [Allowed IP List] .\AllowedIPList.xml file loaded successfuly (IP count: 1)
+[10:49:54] [DataServer] ItemCount: 0
+[10:49:54] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 57)
+[10:49:54] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[10:49:54] [ExDB] Guild Load Completed, total:0, Time:0 ms
+[10:49:55] JoinServer listen on PORT [ 56770 ]
+[10:49:55] DataServer listen on PORT [ 56760 ]
+[10:49:55] ExDataServer listen on PORT [ 56706 ]
+[10:49:55] License Information:
+[10:49:55] Customer: Sergio Soto - Sergio soto Server: ArabastaMu
+[10:50:26] [ServerMng] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 1
+[10:50:26] [ServerMng] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+[10:50:26] [DataServer] GameServer(Battle Core)(480)(24) connect
+[10:50:26] [Join Server] GameServer Battle Core connected BattleCore, PORT: 56120, Code: 480, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[18:50:27] [SQL Error] Error executing: EXEC IGC_GetAverageConnWaitTime 480, Result: -1
+[18:50:27] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+[18:50:27] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][Shared Memory]Error general de red. Consulte la documentación de la red.

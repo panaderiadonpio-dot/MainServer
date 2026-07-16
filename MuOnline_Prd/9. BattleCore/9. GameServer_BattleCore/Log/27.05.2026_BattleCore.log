@@ -1,0 +1,290 @@
+[00:00:39] [ChaosCastleFinal][End of Day] Preparing for reset.
+[00:00:39] [DevilSquareFinal] Not a DSF Day - disable Event
+[00:55:00] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:1 
+[00:59:30] [EventMapPointIntegration][GS_SendEventMapInfo] Send Notify To DATA svr TYPE:1, SVR_GRP 24, Status:2 
+[01:00:00] [Event Management] Found Event: (0) 01 00 (state=0)
+[01:00:00] [Event Management] [Start] Red Dragon Event
+[01:00:00] [Chaos Castle] (1) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (1) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (1) Clear Monster
+[01:00:00] [Chaos Castle] (1) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (1) SetState CLOSED
+[01:00:00] [Chaos Castle] (2) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (2) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (2) Clear Monster
+[01:00:00] [Chaos Castle] (2) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (2) SetState CLOSED
+[01:00:00] [Chaos Castle] (3) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (3) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (3) Clear Monster
+[01:00:00] [Chaos Castle] (3) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (3) SetState CLOSED
+[01:00:00] [Chaos Castle] (4) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (4) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (4) Clear Monster
+[01:00:00] [Chaos Castle] (4) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (4) SetState CLOSED
+[01:00:00] [Chaos Castle] (5) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (5) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (5) Clear Monster
+[01:00:00] [Chaos Castle] (5) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (5) SetState CLOSED
+[01:00:00] [Chaos Castle] (6) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (6) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (6) Clear Monster
+[01:00:00] [Chaos Castle] (6) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (6) SetState CLOSED
+[01:00:00] [Chaos Castle] (7) GetCurPlayUser() FAILED (UserCount:0)
+[01:00:00] [Chaos Castle] (7) Failed to Start Chaos Castle : Lack of User
+[01:00:00] [Chaos Castle] (7) Clear Monster
+[01:00:00] [Chaos Castle] (7) Sync Start Time. [840] min remain (START HOUR:15, MIN:0)
+[01:00:00] [Chaos Castle] (7) SetState CLOSED
+[01:00:01] [Chaos Castle] (1) Clear Monster
+[01:00:01] [Chaos Castle] (1) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (1) SetState CLOSED
+[01:00:01] [Chaos Castle] (1) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (2) Clear Monster
+[01:00:01] [Chaos Castle] (2) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (2) SetState CLOSED
+[01:00:01] [Chaos Castle] (2) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (3) Clear Monster
+[01:00:01] [Chaos Castle] (3) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (3) SetState CLOSED
+[01:00:01] [Chaos Castle] (3) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (4) Clear Monster
+[01:00:01] [Chaos Castle] (4) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (4) SetState CLOSED
+[01:00:01] [Chaos Castle] (4) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (5) Clear Monster
+[01:00:01] [Chaos Castle] (5) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (5) SetState CLOSED
+[01:00:01] [Chaos Castle] (5) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (6) Clear Monster
+[01:00:01] [Chaos Castle] (6) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (6) SetState CLOSED
+[01:00:01] [Chaos Castle] (6) Chaos Castle Quest Closed - No User
+[01:00:01] [Chaos Castle] (7) Clear Monster
+[01:00:01] [Chaos Castle] (7) Sync Start Time. [839] min remain (START HOUR:15, MIN:0)
+[01:00:01] [Chaos Castle] (7) SetState CLOSED
+[01:00:01] [Chaos Castle] (7) Chaos Castle Quest Closed - No User
+[01:00:04] [Red Dragon] Event Start
+[01:05:05] [Red Dragon] Event End
+[02:00:00] [Bonus Event] Event Started: AddExp: 1.500000, AddMLExp: 1.500000, AddMJExp: 1.500000, AddDrop: 0.000000
+[03:00:00] [Event Management] Found Event: (0) 03 00 (state=0)
+[03:00:00] [Event Management] [Start] Red Dragon Event
+[03:00:04] [Red Dragon] Event Start
+[03:05:05] [Red Dragon] Event End
+[03:30:00] [Event Management] Found Event: (3) 03 30 (state=0)
+[03:30:00] [Event Management] [Start] RingAttack Event!
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:93, Y:59
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:222, Y:117
+[03:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:150, Y:86
+[04:01:00] [Bonus Event] Event is over
+[04:19:29] [Auth][2] Disconnected
+[04:20:29] [Auth] Reconnected to Auth (2)
+[04:20:30] [Auth][2] Login Request
+[04:20:30] [Auth][2] License Check Ongoing...
+[04:20:30] [Auth][2] License Verified (Reconnect)
+[04:30:28] [Auth][2] Disconnected
+[04:31:29] [Auth] Reconnected to Auth (2)
+[04:31:30] [Auth][2] Login Request
+[04:31:30] [Auth][2] License Check Ongoing...
+[04:31:30] [Auth][2] License Verified (Reconnect)
+[04:33:29] [Auth][2] Disconnected
+[04:34:30] [Auth] Reconnected to Auth (2)
+[04:34:32] [Auth][2] Login Request
+[04:34:32] [Auth][2] License Check Ongoing...
+[04:34:32] [Auth][2] License Verified (Reconnect)
+[04:44:29] [Auth][2] Disconnected
+[04:45:29] [Auth] Reconnected to Auth (2)
+[04:45:31] [Auth][2] Login Request
+[04:45:32] [Auth][2] License Check Ongoing...
+[04:45:32] [Auth][2] License Verified (Reconnect)
+[05:01:30] [Auth][2] Disconnected
+[05:02:34] [Auth] Reconnected to Auth (2)
+[05:02:34] [Auth][2] Login Request
+[05:02:34] [Auth][2] License Check Ongoing...
+[05:02:34] [Auth][2] License Verified (Reconnect)
+[05:15:31] [Auth][2] Disconnected
+[05:16:31] [Auth] Reconnected to Auth (2)
+[05:16:31] [Auth][2] Login Request
+[05:16:31] [Auth][2] License Check Ongoing...
+[05:16:31] [Auth][2] License Verified (Reconnect)
+[05:29:32] [Auth][2] Disconnected
+[05:30:00] [Event Management] Found Event: (3) 05 30 (state=0)
+[05:30:00] [Event Management] [Start] RingAttack Event!
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:67, Y:105
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:120, Y:107
+[05:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:167, Y:139
+[05:30:32] [Auth] Reconnected to Auth (2)
+[05:30:33] [Auth][2] Login Request
+[05:30:33] [Auth][2] License Check Ongoing...
+[05:30:33] [Auth][2] License Verified (Reconnect)
+[05:43:32] [Auth][2] Disconnected
+[05:44:32] [Auth] Reconnected to Auth (2)
+[05:44:34] [Auth][2] Login Request
+[05:44:35] [Auth][2] License Check Ongoing...
+[05:44:36] [Auth][2] License Verified (Reconnect)
+[05:57:33] [Auth][2] Disconnected
+[05:58:33] [Auth] Reconnected to Auth (2)
+[05:58:33] [Auth][2] Login Request
+[05:58:33] [Auth][2] License Check Ongoing...
+[05:58:34] [Auth][2] License Verified (Reconnect)
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 0
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 1
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 2
+[06:04:00] [DevilSquareNormal] Open Door after 10 minutes RoomIndex ==> 3
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 0
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 1
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 2
+[06:09:05] [DevilSquareNormal] Close Door after 5 minutes RoomIndex ==> 3
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 0
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 1
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 2
+[06:09:05] [DevilSquareNormal] Door Opened RoomIndex ==> 3
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 0
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 1
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 2
+[06:10:06] [DevilSquareNormal] Close Door after 4 minutes RoomIndex ==> 3
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 0
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 1
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 2
+[06:11:07] [DevilSquareNormal] Close Door after 3 minutes RoomIndex ==> 3
+[06:11:33] [Auth][2] Disconnected
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 0
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 1
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 2
+[06:12:08] [DevilSquareNormal] Close Door after 2 minutes RoomIndex ==> 3
+[06:12:33] [Auth] Reconnected to Auth (2)
+[06:12:34] [Auth][2] Login Request
+[06:12:34] [Auth][2] License Check Ongoing...
+[06:12:34] [Auth][2] License Verified (Reconnect)
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 0
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 1
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 2
+[06:13:09] [DevilSquareNormal] Close Door after 1 minutes RoomIndex ==> 3
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 0
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 1
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 2
+[06:14:03] [DevilSquareNormal] Door Closed RoomIndex ==> 3
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:0)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 0
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 0
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:1)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 1
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 1
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:2)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 2
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 2
+[06:14:10] [DevilSquareNormal][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:3)
+[06:14:10] [DevilSquareNormal][ClearMonster] Clear Monster RoomIndex ==> 3
+[06:14:10] [DevilSquareNormal][Set_DSNState_End] State END RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 0
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 1
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 2
+[06:14:19] [DevilSquareNormal][DSN_ProcessInit] Init RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][Set_DSNState_None] State NONE RoomIndex ==> 3
+[06:14:19] [DevilSquareNormal][Proc_DSNState_End] Close Room Round:0 RoomIndex ==> 3
+[06:25:34] [Auth][2] Disconnected
+[06:26:37] [Auth] Reconnected to Auth (2)
+[06:26:38] [Auth][2] Login Request
+[06:26:38] [Auth][2] License Check Ongoing...
+[06:26:38] [Auth][2] License Verified (Reconnect)
+[06:39:35] [Auth][2] Disconnected
+[06:40:39] [Auth] Reconnected to Auth (2)
+[06:40:39] [Auth][2] Login Request
+[06:40:39] [Auth][2] License Check Ongoing...
+[06:40:39] [Auth][2] License Verified (Reconnect)
+[06:53:35] [Auth][2] Disconnected
+[06:54:36] [Auth] Reconnected to Auth (2)
+[06:54:36] [Auth][2] Login Request
+[06:54:36] [Auth][2] License Check Ongoing...
+[06:54:36] [Auth][2] License Verified (Reconnect)
+[07:07:36] [Auth][2] Disconnected
+[07:08:37] [Auth] Reconnected to Auth (2)
+[07:08:37] [Auth][2] Login Request
+[07:08:38] [Auth][2] License Check Ongoing...
+[07:08:38] [Auth][2] License Verified (Reconnect)
+[07:21:36] [Auth][2] Disconnected
+[07:22:37] [Auth] Reconnected to Auth (2)
+[07:22:37] [Auth][2] Login Request
+[07:22:37] [Auth][2] License Check Ongoing...
+[07:22:38] [Auth][2] License Verified (Reconnect)
+[07:30:00] [Event Management] Found Event: (3) 07 30 (state=0)
+[07:30:00] [Event Management] [Start] RingAttack Event!
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:0, X:88, Y:183
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:2, X:135, Y:22
+[07:30:00] [Ring Event] - Monster Start Position MapNumber:3, X:200, Y:149
+[07:35:37] [Auth][2] Disconnected
+[07:36:38] [Auth] Reconnected to Auth (2)
+[07:36:39] [Auth][2] Login Request
+[07:36:40] [Auth][2] License Check Ongoing...
+[07:36:40] [Auth][2] License Verified (Reconnect)
+[07:49:38] [Auth][2] Disconnected
+[07:50:38] [Auth] Reconnected to Auth (2)
+[07:50:39] [Auth][2] Login Request
+[07:50:39] [Auth][2] License Check Ongoing...
+[07:50:39] [Auth][2] License Verified (Reconnect)
+[08:00:00] [Bonus Event] Event Started: AddExp: 1.500000, AddMLExp: 1.500000, AddMJExp: 1.500000, AddDrop: 0.000000
+[08:00:00] [Event Management] Found Event: (1) 08 00 (state=0)
+[08:00:00] [Event Management] [Start] Attack Event!
+[08:03:39] [Auth][2] Disconnected
+[08:04:39] [Auth] Reconnected to Auth (2)
+[08:04:40] [Auth][2] Login Request
+[08:04:40] [Auth][2] License Check Ongoing...
+[08:04:40] [Auth][2] License Verified (Reconnect)
+[08:20:39] [Auth][2] Disconnected
+[08:21:40] [Auth] Reconnected to Auth (2)
+[08:21:40] [Auth][2] Login Request
+[08:21:40] [Auth][2] License Check Ongoing...
+[08:21:40] [Auth][2] License Verified (Reconnect)
+[08:34:40] [Auth][2] Disconnected
+[08:35:40] [Auth] Reconnected to Auth (2)
+[08:35:40] [Auth][2] Login Request
+[08:35:40] [Auth][2] License Check Ongoing...
+[08:35:40] [Auth][2] License Verified (Reconnect)
+[08:48:40] [Auth][2] Disconnected
+[08:49:41] [Auth] Reconnected to Auth (2)
+[08:49:42] [Auth][2] Login Request
+[08:49:42] [Auth][2] License Check Ongoing...
+[08:49:42] [Auth][2] License Verified (Reconnect)
+[08:59:40] [Auth][2] Disconnected
+[09:00:41] [Auth] Reconnected to Auth (2)
+[09:00:43] [Auth][2] Login Request
+[09:00:43] [Auth][2] License Check Ongoing...
+[09:00:43] [Auth][2] License Verified (Reconnect)
+[09:02:41] [Auth][2] Disconnected
+[09:03:41] [Auth] Reconnected to Auth (2)
+[09:03:41] [Auth][2] Login Request
+[09:03:42] [Auth][2] License Check Ongoing...
+[09:03:42] [Auth][2] License Verified (Reconnect)
+[09:16:41] [Auth][2] Disconnected
+[09:17:41] [Auth] Reconnected to Auth (2)
+[09:17:42] [Auth][2] Login Request
+[09:17:42] [Auth][2] License Check Ongoing...
+[09:17:42] [Auth][2] License Verified (Reconnect)
+[09:27:42] [Auth][2] Disconnected
+[09:28:42] [Auth] Reconnected to Auth (2)
+[09:28:43] [Auth][2] Login Request
+[09:28:43] [Auth][2] License Check Ongoing...
+[09:28:43] [Auth][2] License Verified (Reconnect)
+[09:30:00] [Event Management] Found Event: (2) 09 30 (state=0)
+[09:30:00] [Event Management] [Start] Eledorado Event!
+[09:41:42] [Auth][2] Disconnected
+[09:42:43] [Auth] Reconnected to Auth (2)
+[09:42:43] [Auth][2] Login Request
+[09:42:43] [Auth][2] License Check Ongoing...
+[09:42:43] [Auth][2] License Verified (Reconnect)
+[09:55:43] [Auth][2] Disconnected
+[09:56:47] [Auth] Reconnected to Auth (2)
+[09:56:47] [Auth][2] Login Request
+[09:56:47] [Auth][2] License Check Ongoing...
+[09:56:47] [Auth][2] License Verified (Reconnect)
+[10:01:00] [Bonus Event] Event is over
+[10:08:26] Whole connection closed

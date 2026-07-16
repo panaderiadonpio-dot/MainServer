@@ -1,0 +1,21 @@
+[13:51:36] Initializing...
+[13:51:36] eDataServer version: 21.1.2.11 S Compiled at: Apr 17 2026 11:28:08
+[13:51:36] IP Address 147.135.23.66 valid, no resolving required
+[13:51:36] Password Encrypt Type: None
+[13:51:36] Current Global Connections Limit (IP) per ServerGroup, General: 10 OffPlayer: (5)
+[13:51:36] Current Global Connections Limit (HWID) per ServerGroup, General: 10 OffPlayer: (5)
+[13:51:36] JoinServer configuration load OK
+[13:51:36] Character Delete Max Level: 40
+[13:51:36] Character Create Limit Per Day: 4
+[13:51:36] DataServer configuration load OK
+[13:51:36] ExDataServer configuration load OK
+[13:51:36] [Allowed IP List] .\AllowedIPList.xml file loaded successfuly (IP count: 1)
+[13:51:37] [DataServer] ItemCount: 3000
+[13:51:37] [SUCCESS] - DATA SERVER CONNECT MSSQL SUCCESS (COUNT: 57)
+[13:51:37] [SUCCESS] - JOIN SERVER CONNECT MSSQL SUCCESS
+[13:51:37] [ExDB] Guild Load Completed, total:0, Time:0 ms
+[13:51:37] JoinServer listen on PORT [ 56770 ]
+[13:51:37] DataServer listen on PORT [ 56760 ]
+[13:51:37] ExDataServer listen on PORT [ 56706 ]
+[13:51:37] License Information:
+[13:51:37] Customer: Sergio Soto - Sergio soto Server: ArabastaMu

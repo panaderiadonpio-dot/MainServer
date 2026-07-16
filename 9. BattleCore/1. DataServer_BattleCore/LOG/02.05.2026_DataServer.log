@@ -1,0 +1,15 @@
+[00:19:29] [ServerMng] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 1
+[00:19:29] [ServerMng] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 2
+[00:19:29] [DataServer] GameServer(Battle Core)(480)(24) connect
+[00:19:29] [Join Server] GameServer Battle Core connected BattleCore, PORT: 56120, Code: 480, VIP: -1 IP Limit (General: 2, OffPlayer: 2)
+[00:19:29] [SQL Error] Error executing: EXEC IGC_GetAverageConnWaitTime 480, Result: -1
+[00:19:29] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:29] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:29] [SQL Error] Error executing: SELECT * FROM DefaultClassType, Result: -1
+[00:19:29] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:29] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:31] [SQL Error] Error executing: EXEC IGC_DevilSquareFinal_Renew 2, Result: -1
+[00:19:31] SQLSTATE: 01000, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]ConnectionWrite (send()).
+[00:19:31] SQLSTATE: 08S01, Diagnosis: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Error general de red. Consulte la documentación de la red.
+[00:19:36] [ServerMng] Disconnect : Index : 2 - IP : 127.0.0.1 - ServerType : 1
+[00:19:36] [ServerMng] Disconnect : Index : 3 - IP : 127.0.0.1 - ServerType : 2

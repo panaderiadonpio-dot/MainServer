@@ -1,0 +1,24 @@
+[11:09:12] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[11:09:12] SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[11:09:12] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[11:09:12] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PentagramInfo_old' AND column_name = 'PentagramInfo') = 'varbinary') SELECT 1 AS Result
+[11:09:12] SELECT param_value FROM IGC_Config WHERE param_name = 'db_version'
+[11:09:12] IF ((SELECT data_type FROM INFORMATION_SCHEMA.columns WHERE table_name = 'IGC_PStore_Items_old' AND column_name = 'ItemData') = 'varbinary') SELECT 1 AS Result
+[11:09:12] EXEC IGC_PersonalStore_LoadAllStores
+[11:09:12] SELECT * FROM Guild
+[11:09:12] EXEC IGC_DeleteAllPartyMatchingList
+[11:09:12] EXEC IGC_LoadPartyInfo
+[11:09:18] EXEC IGC_GetAverageConnWaitTime 480
+[11:09:18] SELECT * FROM DefaultClassType
+[11:09:20] EXEC IGC_DevilSquareFinal_Renew 2
+[11:09:20] EXEC IGC_DevilSquareFinal_Renew 3
+[11:09:20] EXEC IGC_DevilSquareFinal_Renew 4
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 2
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 3
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 4
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 2
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 3
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 4
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 2
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 3
+[11:09:20] EXEC IGC_DevilSquareFinal_GetRank 4
